@@ -50,6 +50,23 @@ def kg_daripada_unit(unit):
     return n if m.group(2) in ("kg", "kilogram") else n / 1000.0
 
 
+POSKOD_BANDAR = re.compile(r"\b\d{5}\s*,?\s*([A-Za-z][A-Za-z .'()/-]*?)\s*(?:,|$)")
+
+
+def bandar_daripada_alamat(alamat):
+    """Ambil nama bandar selepas poskod 5 digit (cth '34200 PARIT BUNTAR, PERAK' -> 'PARIT BUNTAR')."""
+    if not isinstance(alamat, str):
+        return None
+    m = POSKOD_BANDAR.search(alamat.upper())
+    if not m:
+        return None
+    b = re.sub(r"\s+", " ", m.group(1)).strip(" .-")
+    b = re.sub(r"(\s+(DARUL RIDZUAN|PERAK|MALAYSIA))+$", "", b).strip(" .-")
+    if not b or b in ("PERAK", "MALAYSIA"):
+        return None
+    return b
+
+
 def main():
     kini = datetime.now(MYT)
     bulan = [kini.strftime("%Y-%m")]
@@ -63,8 +80,14 @@ def main():
     item["kg"] = item["unit"].map(kg_daripada_unit)
     item = item[item["kg"].notna() & (item["kg"] > 0)]
 
-    premis = premis[premis["state"].astype(str).str.strip().str.lower() == NEGERI][
-        ["premise_code", "district", "premise_type"]]
+    premis = premis[premis["state"].astype(str).str.strip().str.lower() == NEGERI].copy()
+    if "address" in premis.columns:
+        premis["bandar"] = premis["address"].map(bandar_daripada_alamat)
+    else:
+        print("Amaran: lookup_premise tiada lajur address; harga ikut bandar dilangkau.", file=sys.stderr)
+        premis["bandar"] = None
+    print(f"Premis Perak: {len(premis)}, bandar dikenal pasti: {premis['bandar'].notna().sum()}")
+    premis = premis[["premise_code", "district", "premise_type", "bandar"]]
 
     bingkai = []
     for b in bulan:
@@ -100,6 +123,9 @@ def main():
 
     ikut_daerah = df.groupby(["item_code", "district"]).apply(ringkas, include_groups=False).reset_index()
     ikut_negeri = df.groupby(["item_code"]).apply(ringkas, include_groups=False).reset_index()
+    df_b = df[df["bandar"].notna()]
+    ikut_bandar = (df_b.groupby(["item_code", "district", "bandar"]).apply(ringkas, include_groups=False).reset_index()
+                   if len(df_b) else pd.DataFrame(columns=["item_code", "district", "bandar"]))
 
     keluaran = {
         "sumber": "KPDN PriceCatcher melalui data.gov.my (data terbuka kerajaan)",
@@ -116,6 +142,11 @@ def main():
              "bil": r.bil, "premis": r.premis, "tarikh_terkini": r.tarikh_terkini}
             for r in ikut_daerah.itertuples()
         ],
+        "bandar": [
+            {"kod": int(r.item_code), "daerah": str(r.district), "bandar": str(r.bandar), "median": r.median,
+             "min": r.min, "max": r.max, "bil": r.bil, "premis": r.premis, "tarikh_terkini": r.tarikh_terkini}
+            for r in ikut_bandar.itertuples()
+        ],
         "negeri_median": [
             {"kod": int(r.item_code), "median": r.median, "min": r.min, "max": r.max,
              "bil": r.bil, "premis": r.premis, "tarikh_terkini": r.tarikh_terkini}
@@ -126,7 +157,8 @@ def main():
     os.makedirs("data", exist_ok=True)
     with open("data/harga_ikan_perak.json", "w", encoding="utf-8") as f:
         json.dump(keluaran, f, ensure_ascii=False, indent=1)
-    print(f"Siap: {len(keluaran['item'])} item, {len(keluaran['daerah'])} baris daerah, data hingga {keluaran['data_hingga']}.")
+    print(f"Siap: {len(keluaran['item'])} item, {len(keluaran['daerah'])} baris daerah, "
+          f"{len(keluaran['bandar'])} baris bandar, data hingga {keluaran['data_hingga']}.")
 
 
 if __name__ == "__main__":
