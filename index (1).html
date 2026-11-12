@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="no-referrer">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'sha256-+D8CV68j00BSaPJPCDxg8VXdrVxiARDTTPWxRrW6cQU='; style-src 'unsafe-inline'">
+<title>Log masuk LKIM</title>
+<style>
+  body { margin: 0; min-height: 100vh; display: grid; place-items: center;
+         font-family: system-ui, -apple-system, "Segoe UI", sans-serif; background: #EEF3F5; color: #15252E; }
+  p { font-size: 15px; }
+</style>
+</head>
+<body>
+<p id="m">Sedang log masuk...</p>
+<script>
+(function () {
+  // Halaman perantara log masuk Sistem Jualan Ikan Murah LKIM Perak.
+  // Google memulangkan pengguna ke sini (bukan terus ke Apps Script) supaya
+  // parameter "authuser" dibuang. Parameter itu menyebabkan ralat
+  // "unable to open the file" apabila pelayar mempunyai lebih daripada satu
+  // akaun Google. Hanya state, code, error dan iss diteruskan; tiada data
+  // disimpan atau dihantar ke mana-mana tempat lain.
+  var SISTEM = 'https://script.google.com/macros/s/AKfycbwmFxR2tK2gpG3rx2xc_zvo2u-n2HE3JVqfXGAbrrLhRlYXqJ-UJ9419iHLL_MydYWD/exec';
+  var asal = new URLSearchParams(window.location.search);
+  var terus = new URLSearchParams();
+  ['state', 'code', 'error', 'iss'].forEach(function (k) {
+    var v = asal.get(k);
+    if (v !== null && v.length < 4096) terus.set(k, v);
+  });
+  if (!terus.get('state')) {
+    document.getElementById('m').textContent = 'Pautan log masuk tidak lengkap. Sila buka semula sistem.';
+    return;
+  }
+  window.location.replace(SISTEM + '?' + terus.toString());
+})();
+</script>
+</body>
+</html>
