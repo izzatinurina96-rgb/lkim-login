@@ -1,0 +1,3775 @@
+{
+ "sumber": "KPDN PriceCatcher melalui data.gov.my (data terbuka kerajaan)",
+ "negeri": "Perak",
+ "dijana": "2026-11-12T21:05:38+08:00",
+ "data_hingga": "2026-11-12",
+ "tempoh_hari": 14,
+ "item": [
+  {
+   "kod": 43,
+   "nama": "IKAN BAWAL HITAM (ANTARA 2 HINGGA 5 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 47,
+   "nama": "IKAN CENCARU (ANTARA 4 HINGGA 6 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 52,
+   "nama": "KEPALA IKAN JENAHAK",
+   "unit": "1kg"
+  },
+  {
+   "kod": 55,
+   "nama": "IKAN KEMBUNG KECIL/PELALING (ANTARA 10 HINGGA 18 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 64,
+   "nama": "KEPALA IKAN MERAH",
+   "unit": "1kg"
+  },
+  {
+   "kod": 69,
+   "nama": "IKAN SELAR KUNING (≥ 11 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 70,
+   "nama": "IKAN SELAR/PELATA (≤ 7 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 88,
+   "nama": "IKAN KELI (ANTARA 2 HINGGA 5 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 350,
+   "nama": "SERBUK KARI IKAN BABAS",
+   "unit": "250 g"
+  },
+  {
+   "kod": 845,
+   "nama": "SOTONG (ANTARA 11 HINGGA17 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 847,
+   "nama": "KETAM RENJONG/BUNGA (≤ 4 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 849,
+   "nama": "UDANG PUTIH KECIL (b\t% 61 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 850,
+   "nama": "UDANG HARIMAU (ANTARA 20 HINGGA 30 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 1138,
+   "nama": "SOS TIRAM MAGGI",
+   "unit": "340 g"
+  },
+  {
+   "kod": 1391,
+   "nama": "UDANG PUTIH BESAR (BERAT ANTARA 41 EKOR HINGGA 60 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 1436,
+   "nama": "IKAN KERISI (ANTARA 5 HINGGA 10 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 1437,
+   "nama": "IKAN SIAKAP (ANTARA 2 HINGGA 4 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 1438,
+   "nama": "IKAN TENGGIRI BATANG (KEPINGAN)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 1475,
+   "nama": "IKAN BAWAL PUTIH (ANTARA 2 HINGGA 5 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 1476,
+   "nama": "IKAN KEMBUNG (ANTARA 8 HINGGA 12 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 1477,
+   "nama": "IKAN MABUNG (ANTARA 6 HINGGA 10 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 1545,
+   "nama": "PERENCAH NASI GORENG IKAN BILIS SERI AJI",
+   "unit": "26G"
+  },
+  {
+   "kod": 1554,
+   "nama": "IKAN MERAH (KEPINGAN)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 1555,
+   "nama": "UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 1562,
+   "nama": "UDANG KERING",
+   "unit": "100 g"
+  },
+  {
+   "kod": 1563,
+   "nama": "SOTONG KERING (SAIZ SERDAHANA)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 1568,
+   "nama": "SERBUK KARI IKAN ADABI",
+   "unit": "250 g"
+  },
+  {
+   "kod": 1915,
+   "nama": "IKAN JENAHAK (KEPINGAN)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 1916,
+   "nama": "IKAN DEMUDUK/CUPAK/CERMIN (≤ 3 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 1919,
+   "nama": "UDANG PUTIH BESAR (ANTARA 20 HINGGA 30 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 1921,
+   "nama": "IKAN TILAPIA MERAH (ANTARA 2 HINGGA 5 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 2045,
+   "nama": "IKAN SELAYANG/SARDIN (ANTARA 8-12 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  },
+  {
+   "kod": 2047,
+   "nama": "IKAN TONGKOL/AYA/KAYU HITAM/PUTIH (ANTARA 1 HINGGA 2 EKOR SEKILOGRAM)",
+   "unit": "1kg"
+  }
+ ],
+ "daerah": [
+  {
+   "kod": 43,
+   "daerah": "Bagan Datuk",
+   "median": 22.9,
+   "min": 20.99,
+   "max": 22.9,
+   "bil": 3,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 43,
+   "daerah": "Batang Padang",
+   "median": 32.0,
+   "min": 32.0,
+   "max": 32.0,
+   "bil": 4,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 43,
+   "daerah": "Hilir Perak",
+   "median": 27.99,
+   "min": 19.99,
+   "max": 30.99,
+   "bil": 8,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 43,
+   "daerah": "Hulu Perak",
+   "median": 22.99,
+   "min": 18.9,
+   "max": 26.9,
+   "bil": 12,
+   "premis": 7,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 43,
+   "daerah": "Kerian",
+   "median": 28.0,
+   "min": 20.0,
+   "max": 31.59,
+   "bil": 10,
+   "premis": 6,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 43,
+   "daerah": "Kinta",
+   "median": 23.45,
+   "min": 19.89,
+   "max": 39.9,
+   "bil": 24,
+   "premis": 15,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 43,
+   "daerah": "Kuala Kangsar",
+   "median": 23.9,
+   "min": 21.9,
+   "max": 30.0,
+   "bil": 15,
+   "premis": 9,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 43,
+   "daerah": "Larut, Matang & Selama",
+   "median": 24.0,
+   "min": 17.9,
+   "max": 30.0,
+   "bil": 20,
+   "premis": 13,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 43,
+   "daerah": "Manjung",
+   "median": 25.99,
+   "min": 20.99,
+   "max": 28.0,
+   "bil": 11,
+   "premis": 6,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 43,
+   "daerah": "Muallim",
+   "median": 27.45,
+   "min": 22.9,
+   "max": 34.0,
+   "bil": 4,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 43,
+   "daerah": "Perak Tengah",
+   "median": 28.0,
+   "min": 28.0,
+   "max": 28.0,
+   "bil": 1,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 47,
+   "daerah": "Bagan Datuk",
+   "median": 10.5,
+   "min": 6.59,
+   "max": 12.0,
+   "bil": 30,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 47,
+   "daerah": "Batang Padang",
+   "median": 12.0,
+   "min": 6.9,
+   "max": 15.0,
+   "bil": 52,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 47,
+   "daerah": "Hilir Perak",
+   "median": 9.99,
+   "min": 6.9,
+   "max": 13.9,
+   "bil": 80,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 47,
+   "daerah": "Hulu Perak",
+   "median": 9.99,
+   "min": 6.99,
+   "max": 13.9,
+   "bil": 89,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 47,
+   "daerah": "Kerian",
+   "median": 10.0,
+   "min": 7.99,
+   "max": 12.0,
+   "bil": 97,
+   "premis": 9,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 47,
+   "daerah": "Kinta",
+   "median": 10.0,
+   "min": 6.9,
+   "max": 16.0,
+   "bil": 207,
+   "premis": 23,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 47,
+   "daerah": "Kuala Kangsar",
+   "median": 10.0,
+   "min": 5.6,
+   "max": 13.9,
+   "bil": 108,
+   "premis": 14,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 47,
+   "daerah": "Larut, Matang & Selama",
+   "median": 9.9,
+   "min": 5.6,
+   "max": 13.0,
+   "bil": 134,
+   "premis": 18,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 47,
+   "daerah": "Manjung",
+   "median": 9.99,
+   "min": 4.9,
+   "max": 13.9,
+   "bil": 110,
+   "premis": 12,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 47,
+   "daerah": "Muallim",
+   "median": 11.9,
+   "min": 6.9,
+   "max": 14.0,
+   "bil": 30,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 47,
+   "daerah": "Perak Tengah",
+   "median": 7.99,
+   "min": 7.89,
+   "max": 14.0,
+   "bil": 30,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 52,
+   "daerah": "Batang Padang",
+   "median": 34.99,
+   "min": 22.9,
+   "max": 34.99,
+   "bil": 3,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 52,
+   "daerah": "Hilir Perak",
+   "median": 22.99,
+   "min": 22.9,
+   "max": 29.99,
+   "bil": 5,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 52,
+   "daerah": "Hulu Perak",
+   "median": 22.9,
+   "min": 17.99,
+   "max": 29.99,
+   "bil": 6,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 52,
+   "daerah": "Kerian",
+   "median": 16.9,
+   "min": 16.59,
+   "max": 19.9,
+   "bil": 7,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 52,
+   "daerah": "Kinta",
+   "median": 22.9,
+   "min": 18.59,
+   "max": 30.59,
+   "bil": 14,
+   "premis": 8,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 52,
+   "daerah": "Kuala Kangsar",
+   "median": 26.45,
+   "min": 22.9,
+   "max": 29.99,
+   "bil": 6,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 52,
+   "daerah": "Larut, Matang & Selama",
+   "median": 29.9,
+   "min": 18.59,
+   "max": 29.99,
+   "bil": 7,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 52,
+   "daerah": "Manjung",
+   "median": 22.99,
+   "min": 22.9,
+   "max": 33.59,
+   "bil": 7,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 52,
+   "daerah": "Muallim",
+   "median": 22.9,
+   "min": 13.59,
+   "max": 22.9,
+   "bil": 3,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 52,
+   "daerah": "Perak Tengah",
+   "median": 17.99,
+   "min": 17.99,
+   "max": 17.99,
+   "bil": 2,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 55,
+   "daerah": "Bagan Datuk",
+   "median": 9.99,
+   "min": 8.99,
+   "max": 16.0,
+   "bil": 20,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 55,
+   "daerah": "Batang Padang",
+   "median": 12.5,
+   "min": 12.0,
+   "max": 13.0,
+   "bil": 2,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-04"
+  },
+  {
+   "kod": 55,
+   "daerah": "Hilir Perak",
+   "median": 12.9,
+   "min": 7.59,
+   "max": 20.9,
+   "bil": 43,
+   "premis": 6,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 55,
+   "daerah": "Hulu Perak",
+   "median": 12.9,
+   "min": 7.9,
+   "max": 18.0,
+   "bil": 34,
+   "premis": 6,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 55,
+   "daerah": "Kerian",
+   "median": 10.0,
+   "min": 7.0,
+   "max": 14.0,
+   "bil": 47,
+   "premis": 7,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 55,
+   "daerah": "Kinta",
+   "median": 10.0,
+   "min": 6.0,
+   "max": 20.0,
+   "bil": 33,
+   "premis": 8,
+   "tarikh_terkini": "2026-11-11"
+  },
+  {
+   "kod": 55,
+   "daerah": "Kuala Kangsar",
+   "median": 12.0,
+   "min": 7.9,
+   "max": 19.0,
+   "bil": 63,
+   "premis": 8,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 55,
+   "daerah": "Larut, Matang & Selama",
+   "median": 13.9,
+   "min": 8.0,
+   "max": 19.9,
+   "bil": 104,
+   "premis": 15,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 55,
+   "daerah": "Manjung",
+   "median": 10.0,
+   "min": 7.0,
+   "max": 16.0,
+   "bil": 33,
+   "premis": 6,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 55,
+   "daerah": "Muallim",
+   "median": 16.9,
+   "min": 16.9,
+   "max": 16.9,
+   "bil": 1,
+   "premis": 1,
+   "tarikh_terkini": "2026-10-31"
+  },
+  {
+   "kod": 64,
+   "daerah": "Bagan Datuk",
+   "median": 43.49,
+   "min": 36.99,
+   "max": 49.99,
+   "bil": 2,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 64,
+   "daerah": "Batang Padang",
+   "median": 34.99,
+   "min": 34.99,
+   "max": 34.99,
+   "bil": 2,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 64,
+   "daerah": "Hilir Perak",
+   "median": 33.99,
+   "min": 23.9,
+   "max": 33.99,
+   "bil": 7,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 64,
+   "daerah": "Hulu Perak",
+   "median": 28.95,
+   "min": 23.9,
+   "max": 33.99,
+   "bil": 4,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 64,
+   "daerah": "Kerian",
+   "median": 19.9,
+   "min": 19.9,
+   "max": 20.59,
+   "bil": 5,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 64,
+   "daerah": "Kinta",
+   "median": 25.9,
+   "min": 23.9,
+   "max": 33.99,
+   "bil": 19,
+   "premis": 11,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 64,
+   "daerah": "Kuala Kangsar",
+   "median": 23.9,
+   "min": 20.59,
+   "max": 33.99,
+   "bil": 7,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 64,
+   "daerah": "Larut, Matang & Selama",
+   "median": 25.99,
+   "min": 25.99,
+   "max": 33.99,
+   "bil": 5,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 64,
+   "daerah": "Manjung",
+   "median": 25.99,
+   "min": 23.9,
+   "max": 33.99,
+   "bil": 5,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 64,
+   "daerah": "Muallim",
+   "median": 23.9,
+   "min": 23.9,
+   "max": 23.9,
+   "bil": 2,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 64,
+   "daerah": "Perak Tengah",
+   "median": 22.99,
+   "min": 19.99,
+   "max": 25.99,
+   "bil": 2,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 69,
+   "daerah": "Bagan Datuk",
+   "median": 10.99,
+   "min": 6.59,
+   "max": 12.99,
+   "bil": 7,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 69,
+   "daerah": "Batang Padang",
+   "median": 10.99,
+   "min": 8.99,
+   "max": 12.9,
+   "bil": 15,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 69,
+   "daerah": "Hilir Perak",
+   "median": 9.9,
+   "min": 5.99,
+   "max": 12.9,
+   "bil": 6,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 69,
+   "daerah": "Hulu Perak",
+   "median": 10.45,
+   "min": 8.99,
+   "max": 19.9,
+   "bil": 18,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 69,
+   "daerah": "Kerian",
+   "median": 10.0,
+   "min": 6.0,
+   "max": 16.0,
+   "bil": 34,
+   "premis": 6,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 69,
+   "daerah": "Kinta",
+   "median": 11.99,
+   "min": 4.59,
+   "max": 14.99,
+   "bil": 63,
+   "premis": 11,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 69,
+   "daerah": "Kuala Kangsar",
+   "median": 10.9,
+   "min": 8.0,
+   "max": 12.9,
+   "bil": 13,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-10"
+  },
+  {
+   "kod": 69,
+   "daerah": "Larut, Matang & Selama",
+   "median": 9.9,
+   "min": 6.99,
+   "max": 18.0,
+   "bil": 17,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-11"
+  },
+  {
+   "kod": 69,
+   "daerah": "Manjung",
+   "median": 9.99,
+   "min": 2.99,
+   "max": 16.0,
+   "bil": 29,
+   "premis": 7,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 69,
+   "daerah": "Muallim",
+   "median": 12.0,
+   "min": 6.0,
+   "max": 12.9,
+   "bil": 11,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 69,
+   "daerah": "Perak Tengah",
+   "median": 3.99,
+   "min": 3.59,
+   "max": 6.99,
+   "bil": 6,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-11"
+  },
+  {
+   "kod": 70,
+   "daerah": "Bagan Datuk",
+   "median": 12.99,
+   "min": 7.59,
+   "max": 16.0,
+   "bil": 20,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 70,
+   "daerah": "Batang Padang",
+   "median": 19.9,
+   "min": 8.9,
+   "max": 24.0,
+   "bil": 45,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 70,
+   "daerah": "Hilir Perak",
+   "median": 13.9,
+   "min": 9.99,
+   "max": 23.9,
+   "bil": 61,
+   "premis": 9,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 70,
+   "daerah": "Hulu Perak",
+   "median": 17.0,
+   "min": 9.59,
+   "max": 20.0,
+   "bil": 59,
+   "premis": 8,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 70,
+   "daerah": "Kerian",
+   "median": 15.0,
+   "min": 7.99,
+   "max": 21.9,
+   "bil": 81,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 70,
+   "daerah": "Kinta",
+   "median": 16.0,
+   "min": 10.99,
+   "max": 29.9,
+   "bil": 205,
+   "premis": 23,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 70,
+   "daerah": "Kuala Kangsar",
+   "median": 16.0,
+   "min": 10.9,
+   "max": 22.0,
+   "bil": 85,
+   "premis": 13,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 70,
+   "daerah": "Larut, Matang & Selama",
+   "median": 14.99,
+   "min": 10.59,
+   "max": 29.9,
+   "bil": 99,
+   "premis": 13,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 70,
+   "daerah": "Manjung",
+   "median": 16.99,
+   "min": 7.99,
+   "max": 25.9,
+   "bil": 74,
+   "premis": 11,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 70,
+   "daerah": "Muallim",
+   "median": 16.9,
+   "min": 10.99,
+   "max": 26.0,
+   "bil": 30,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 70,
+   "daerah": "Perak Tengah",
+   "median": 16.99,
+   "min": 10.59,
+   "max": 20.0,
+   "bil": 22,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 88,
+   "daerah": "Bagan Datuk",
+   "median": 10.0,
+   "min": 8.99,
+   "max": 10.99,
+   "bil": 32,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 88,
+   "daerah": "Batang Padang",
+   "median": 9.5,
+   "min": 7.9,
+   "max": 10.99,
+   "bil": 52,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 88,
+   "daerah": "Hilir Perak",
+   "median": 8.99,
+   "min": 7.0,
+   "max": 11.9,
+   "bil": 79,
+   "premis": 9,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 88,
+   "daerah": "Hulu Perak",
+   "median": 9.9,
+   "min": 7.9,
+   "max": 12.0,
+   "bil": 90,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 88,
+   "daerah": "Kerian",
+   "median": 9.0,
+   "min": 7.99,
+   "max": 11.9,
+   "bil": 98,
+   "premis": 9,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 88,
+   "daerah": "Kinta",
+   "median": 10.0,
+   "min": 7.9,
+   "max": 12.9,
+   "bil": 204,
+   "premis": 21,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 88,
+   "daerah": "Kuala Kangsar",
+   "median": 9.0,
+   "min": 7.5,
+   "max": 13.0,
+   "bil": 125,
+   "premis": 14,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 88,
+   "daerah": "Larut, Matang & Selama",
+   "median": 9.49,
+   "min": 8.49,
+   "max": 11.59,
+   "bil": 110,
+   "premis": 13,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 88,
+   "daerah": "Manjung",
+   "median": 9.99,
+   "min": 7.0,
+   "max": 11.99,
+   "bil": 97,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 88,
+   "daerah": "Muallim",
+   "median": 9.99,
+   "min": 7.9,
+   "max": 12.0,
+   "bil": 32,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 88,
+   "daerah": "Perak Tengah",
+   "median": 9.99,
+   "min": 8.49,
+   "max": 10.59,
+   "bil": 31,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 350,
+   "daerah": "Bagan Datuk",
+   "median": 22.96,
+   "min": 21.96,
+   "max": 23.96,
+   "bil": 4,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 350,
+   "daerah": "Batang Padang",
+   "median": 24.6,
+   "min": 21.96,
+   "max": 26.0,
+   "bil": 24,
+   "premis": 12,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 350,
+   "daerah": "Hilir Perak",
+   "median": 23.96,
+   "min": 20.8,
+   "max": 26.0,
+   "bil": 37,
+   "premis": 19,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 350,
+   "daerah": "Hulu Perak",
+   "median": 23.6,
+   "min": 21.96,
+   "max": 26.0,
+   "bil": 27,
+   "premis": 14,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 350,
+   "daerah": "Kerian",
+   "median": 23.2,
+   "min": 21.96,
+   "max": 26.0,
+   "bil": 30,
+   "premis": 16,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 350,
+   "daerah": "Kinta",
+   "median": 23.6,
+   "min": 21.16,
+   "max": 25.6,
+   "bil": 72,
+   "premis": 37,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 350,
+   "daerah": "Kuala Kangsar",
+   "median": 24.0,
+   "min": 21.96,
+   "max": 26.4,
+   "bil": 37,
+   "premis": 19,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 350,
+   "daerah": "Larut, Matang & Selama",
+   "median": 24.0,
+   "min": 21.96,
+   "max": 27.6,
+   "bil": 48,
+   "premis": 25,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 350,
+   "daerah": "Manjung",
+   "median": 23.2,
+   "min": 21.8,
+   "max": 26.8,
+   "bil": 44,
+   "premis": 23,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 350,
+   "daerah": "Muallim",
+   "median": 23.6,
+   "min": 21.96,
+   "max": 24.0,
+   "bil": 10,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 350,
+   "daerah": "Perak Tengah",
+   "median": 22.2,
+   "min": 21.8,
+   "max": 26.0,
+   "bil": 10,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 845,
+   "daerah": "Bagan Datuk",
+   "median": 34.99,
+   "min": 27.99,
+   "max": 38.0,
+   "bil": 21,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 845,
+   "daerah": "Batang Padang",
+   "median": 30.0,
+   "min": 22.99,
+   "max": 38.0,
+   "bil": 45,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 845,
+   "daerah": "Hilir Perak",
+   "median": 33.99,
+   "min": 22.99,
+   "max": 44.99,
+   "bil": 61,
+   "premis": 9,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 845,
+   "daerah": "Hulu Perak",
+   "median": 33.95,
+   "min": 19.99,
+   "max": 44.99,
+   "bil": 76,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 845,
+   "daerah": "Kerian",
+   "median": 34.0,
+   "min": 24.99,
+   "max": 45.9,
+   "bil": 75,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 845,
+   "daerah": "Kinta",
+   "median": 34.0,
+   "min": 16.9,
+   "max": 41.9,
+   "bil": 194,
+   "premis": 23,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 845,
+   "daerah": "Kuala Kangsar",
+   "median": 36.0,
+   "min": 22.9,
+   "max": 44.99,
+   "bil": 63,
+   "premis": 9,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 845,
+   "daerah": "Larut, Matang & Selama",
+   "median": 33.0,
+   "min": 20.0,
+   "max": 49.9,
+   "bil": 124,
+   "premis": 18,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 845,
+   "daerah": "Manjung",
+   "median": 34.0,
+   "min": 25.99,
+   "max": 49.99,
+   "bil": 55,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 845,
+   "daerah": "Muallim",
+   "median": 34.0,
+   "min": 28.99,
+   "max": 39.9,
+   "bil": 20,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 845,
+   "daerah": "Perak Tengah",
+   "median": 32.0,
+   "min": 25.99,
+   "max": 34.0,
+   "bil": 9,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-10"
+  },
+  {
+   "kod": 847,
+   "daerah": "Bagan Datuk",
+   "median": 29.9,
+   "min": 28.99,
+   "max": 33.99,
+   "bil": 14,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 847,
+   "daerah": "Batang Padang",
+   "median": 42.0,
+   "min": 34.9,
+   "max": 50.0,
+   "bil": 27,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 847,
+   "daerah": "Hilir Perak",
+   "median": 35.0,
+   "min": 29.9,
+   "max": 45.99,
+   "bil": 42,
+   "premis": 8,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 847,
+   "daerah": "Hulu Perak",
+   "median": 32.99,
+   "min": 24.0,
+   "max": 49.0,
+   "bil": 46,
+   "premis": 7,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 847,
+   "daerah": "Kerian",
+   "median": 35.9,
+   "min": 26.9,
+   "max": 48.0,
+   "bil": 42,
+   "premis": 8,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 847,
+   "daerah": "Kinta",
+   "median": 34.99,
+   "min": 28.0,
+   "max": 59.9,
+   "bil": 188,
+   "premis": 22,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 847,
+   "daerah": "Kuala Kangsar",
+   "median": 38.0,
+   "min": 27.0,
+   "max": 44.0,
+   "bil": 40,
+   "premis": 8,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 847,
+   "daerah": "Larut, Matang & Selama",
+   "median": 34.99,
+   "min": 24.9,
+   "max": 59.9,
+   "bil": 71,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 847,
+   "daerah": "Manjung",
+   "median": 35.99,
+   "min": 28.99,
+   "max": 45.0,
+   "bil": 61,
+   "premis": 9,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 847,
+   "daerah": "Muallim",
+   "median": 34.9,
+   "min": 29.9,
+   "max": 50.0,
+   "bil": 31,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 847,
+   "daerah": "Perak Tengah",
+   "median": 32.99,
+   "min": 29.99,
+   "max": 45.0,
+   "bil": 20,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-11"
+  },
+  {
+   "kod": 849,
+   "daerah": "Bagan Datuk",
+   "median": 16.59,
+   "min": 15.59,
+   "max": 17.59,
+   "bil": 2,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 849,
+   "daerah": "Batang Padang",
+   "median": 18.9,
+   "min": 18.9,
+   "max": 21.99,
+   "bil": 3,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 849,
+   "daerah": "Hilir Perak",
+   "median": 17.59,
+   "min": 14.99,
+   "max": 17.99,
+   "bil": 3,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 849,
+   "daerah": "Hulu Perak",
+   "median": 17.59,
+   "min": 10.5,
+   "max": 18.99,
+   "bil": 9,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 849,
+   "daerah": "Kerian",
+   "median": 18.44,
+   "min": 14.99,
+   "max": 26.9,
+   "bil": 8,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 849,
+   "daerah": "Kinta",
+   "median": 18.9,
+   "min": 14.59,
+   "max": 26.9,
+   "bil": 19,
+   "premis": 11,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 849,
+   "daerah": "Kuala Kangsar",
+   "median": 18.9,
+   "min": 12.9,
+   "max": 21.99,
+   "bil": 13,
+   "premis": 8,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 849,
+   "daerah": "Larut, Matang & Selama",
+   "median": 18.99,
+   "min": 11.9,
+   "max": 19.9,
+   "bil": 9,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 849,
+   "daerah": "Manjung",
+   "median": 14.49,
+   "min": 13.99,
+   "max": 21.99,
+   "bil": 6,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 849,
+   "daerah": "Muallim",
+   "median": 16.95,
+   "min": 14.99,
+   "max": 18.9,
+   "bil": 4,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 849,
+   "daerah": "Perak Tengah",
+   "median": 16.59,
+   "min": 16.59,
+   "max": 16.59,
+   "bil": 1,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-02"
+  },
+  {
+   "kod": 850,
+   "daerah": "Bagan Datuk",
+   "median": 33.99,
+   "min": 33.99,
+   "max": 33.99,
+   "bil": 1,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-02"
+  },
+  {
+   "kod": 850,
+   "daerah": "Batang Padang",
+   "median": 38.0,
+   "min": 36.0,
+   "max": 38.0,
+   "bil": 3,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 850,
+   "daerah": "Hilir Perak",
+   "median": 30.49,
+   "min": 24.99,
+   "max": 31.99,
+   "bil": 4,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 850,
+   "daerah": "Hulu Perak",
+   "median": 35.59,
+   "min": 25.0,
+   "max": 37.59,
+   "bil": 5,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 850,
+   "daerah": "Kerian",
+   "median": 34.9,
+   "min": 32.99,
+   "max": 38.9,
+   "bil": 5,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 850,
+   "daerah": "Kinta",
+   "median": 37.59,
+   "min": 27.99,
+   "max": 69.9,
+   "bil": 17,
+   "premis": 12,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 850,
+   "daerah": "Kuala Kangsar",
+   "median": 32.24,
+   "min": 30.59,
+   "max": 33.9,
+   "bil": 2,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 850,
+   "daerah": "Larut, Matang & Selama",
+   "median": 48.75,
+   "min": 33.59,
+   "max": 69.9,
+   "bil": 4,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 850,
+   "daerah": "Manjung",
+   "median": 29.99,
+   "min": 16.99,
+   "max": 34.0,
+   "bil": 6,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 850,
+   "daerah": "Muallim",
+   "median": 33.59,
+   "min": 33.59,
+   "max": 33.59,
+   "bil": 1,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-02"
+  },
+  {
+   "kod": 850,
+   "daerah": "Perak Tengah",
+   "median": 32.99,
+   "min": 32.99,
+   "max": 32.99,
+   "bil": 1,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-02"
+  },
+  {
+   "kod": 1138,
+   "daerah": "Bagan Datuk",
+   "median": 16.32,
+   "min": 15.88,
+   "max": 16.76,
+   "bil": 4,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1138,
+   "daerah": "Batang Padang",
+   "median": 17.06,
+   "min": 16.18,
+   "max": 18.24,
+   "bil": 15,
+   "premis": 9,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1138,
+   "daerah": "Hilir Perak",
+   "median": 16.76,
+   "min": 16.03,
+   "max": 19.12,
+   "bil": 35,
+   "premis": 18,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1138,
+   "daerah": "Hulu Perak",
+   "median": 16.76,
+   "min": 14.38,
+   "max": 19.71,
+   "bil": 25,
+   "premis": 13,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1138,
+   "daerah": "Kerian",
+   "median": 17.06,
+   "min": 15.88,
+   "max": 17.65,
+   "bil": 30,
+   "premis": 16,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1138,
+   "daerah": "Kinta",
+   "median": 16.76,
+   "min": 15.88,
+   "max": 19.12,
+   "bil": 55,
+   "premis": 29,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1138,
+   "daerah": "Kuala Kangsar",
+   "median": 17.63,
+   "min": 15.88,
+   "max": 18.24,
+   "bil": 32,
+   "premis": 16,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1138,
+   "daerah": "Larut, Matang & Selama",
+   "median": 17.35,
+   "min": 14.38,
+   "max": 20.0,
+   "bil": 44,
+   "premis": 24,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1138,
+   "daerah": "Manjung",
+   "median": 16.76,
+   "min": 15.88,
+   "max": 20.29,
+   "bil": 40,
+   "premis": 20,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1138,
+   "daerah": "Muallim",
+   "median": 16.18,
+   "min": 15.88,
+   "max": 17.91,
+   "bil": 11,
+   "premis": 6,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1138,
+   "daerah": "Perak Tengah",
+   "median": 16.1,
+   "min": 15.88,
+   "max": 17.65,
+   "bil": 8,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1391,
+   "daerah": "Hulu Perak",
+   "median": 39.0,
+   "min": 38.0,
+   "max": 40.0,
+   "bil": 2,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1391,
+   "daerah": "Kerian",
+   "median": 37.99,
+   "min": 37.99,
+   "max": 48.0,
+   "bil": 3,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1391,
+   "daerah": "Kinta",
+   "median": 34.5,
+   "min": 30.0,
+   "max": 39.0,
+   "bil": 2,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1391,
+   "daerah": "Kuala Kangsar",
+   "median": 44.0,
+   "min": 44.0,
+   "max": 44.0,
+   "bil": 1,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1391,
+   "daerah": "Larut, Matang & Selama",
+   "median": 36.0,
+   "min": 36.0,
+   "max": 36.0,
+   "bil": 1,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1391,
+   "daerah": "Manjung",
+   "median": 57.0,
+   "min": 56.0,
+   "max": 58.0,
+   "bil": 2,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1436,
+   "daerah": "Bagan Datuk",
+   "median": 15.99,
+   "min": 8.99,
+   "max": 16.0,
+   "bil": 20,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1436,
+   "daerah": "Batang Padang",
+   "median": 16.0,
+   "min": 12.0,
+   "max": 20.0,
+   "bil": 45,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1436,
+   "daerah": "Hilir Perak",
+   "median": 13.99,
+   "min": 9.9,
+   "max": 18.9,
+   "bil": 64,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1436,
+   "daerah": "Hulu Perak",
+   "median": 15.99,
+   "min": 8.99,
+   "max": 19.9,
+   "bil": 52,
+   "premis": 8,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1436,
+   "daerah": "Kerian",
+   "median": 14.0,
+   "min": 10.59,
+   "max": 19.9,
+   "bil": 89,
+   "premis": 9,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1436,
+   "daerah": "Kinta",
+   "median": 15.0,
+   "min": 6.99,
+   "max": 27.0,
+   "bil": 194,
+   "premis": 23,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1436,
+   "daerah": "Kuala Kangsar",
+   "median": 16.0,
+   "min": 8.0,
+   "max": 22.9,
+   "bil": 90,
+   "premis": 12,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1436,
+   "daerah": "Larut, Matang & Selama",
+   "median": 14.0,
+   "min": 8.59,
+   "max": 22.9,
+   "bil": 108,
+   "premis": 14,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1436,
+   "daerah": "Manjung",
+   "median": 15.99,
+   "min": 8.99,
+   "max": 19.99,
+   "bil": 90,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1436,
+   "daerah": "Muallim",
+   "median": 16.9,
+   "min": 11.59,
+   "max": 20.0,
+   "bil": 24,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1436,
+   "daerah": "Perak Tengah",
+   "median": 16.99,
+   "min": 7.99,
+   "max": 17.0,
+   "bil": 25,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1437,
+   "daerah": "Bagan Datuk",
+   "median": 20.0,
+   "min": 20.0,
+   "max": 20.0,
+   "bil": 2,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1437,
+   "daerah": "Batang Padang",
+   "median": 19.0,
+   "min": 15.99,
+   "max": 20.0,
+   "bil": 6,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1437,
+   "daerah": "Hilir Perak",
+   "median": 17.25,
+   "min": 15.5,
+   "max": 18.0,
+   "bil": 10,
+   "premis": 6,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1437,
+   "daerah": "Hulu Perak",
+   "median": 16.99,
+   "min": 13.9,
+   "max": 20.0,
+   "bil": 10,
+   "premis": 6,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1437,
+   "daerah": "Kerian",
+   "median": 18.0,
+   "min": 17.9,
+   "max": 20.0,
+   "bil": 12,
+   "premis": 6,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1437,
+   "daerah": "Kinta",
+   "median": 17.0,
+   "min": 16.5,
+   "max": 26.9,
+   "bil": 16,
+   "premis": 11,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1437,
+   "daerah": "Kuala Kangsar",
+   "median": 18.0,
+   "min": 13.5,
+   "max": 20.0,
+   "bil": 13,
+   "premis": 8,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1437,
+   "daerah": "Larut, Matang & Selama",
+   "median": 16.0,
+   "min": 12.9,
+   "max": 20.0,
+   "bil": 18,
+   "premis": 11,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1437,
+   "daerah": "Manjung",
+   "median": 18.0,
+   "min": 16.99,
+   "max": 20.0,
+   "bil": 8,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1437,
+   "daerah": "Muallim",
+   "median": 22.0,
+   "min": 20.0,
+   "max": 24.0,
+   "bil": 2,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1437,
+   "daerah": "Perak Tengah",
+   "median": 20.0,
+   "min": 20.0,
+   "max": 20.0,
+   "bil": 1,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1438,
+   "daerah": "Batang Padang",
+   "median": 45.0,
+   "min": 36.0,
+   "max": 49.99,
+   "bil": 5,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1438,
+   "daerah": "Hilir Perak",
+   "median": 38.9,
+   "min": 32.9,
+   "max": 49.99,
+   "bil": 7,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1438,
+   "daerah": "Hulu Perak",
+   "median": 43.99,
+   "min": 43.99,
+   "max": 49.99,
+   "bil": 3,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1438,
+   "daerah": "Kerian",
+   "median": 40.0,
+   "min": 34.0,
+   "max": 49.99,
+   "bil": 8,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1438,
+   "daerah": "Kinta",
+   "median": 49.99,
+   "min": 31.99,
+   "max": 79.9,
+   "bil": 24,
+   "premis": 15,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1438,
+   "daerah": "Kuala Kangsar",
+   "median": 49.99,
+   "min": 49.99,
+   "max": 49.99,
+   "bil": 4,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1438,
+   "daerah": "Larut, Matang & Selama",
+   "median": 50.0,
+   "min": 38.99,
+   "max": 79.9,
+   "bil": 8,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1438,
+   "daerah": "Manjung",
+   "median": 49.9,
+   "min": 40.0,
+   "max": 79.9,
+   "bil": 5,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1438,
+   "daerah": "Muallim",
+   "median": 32.9,
+   "min": 29.99,
+   "max": 58.0,
+   "bil": 4,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1438,
+   "daerah": "Perak Tengah",
+   "median": 43.8,
+   "min": 38.99,
+   "max": 47.59,
+   "bil": 4,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1475,
+   "daerah": "Batang Padang",
+   "median": 55.0,
+   "min": 55.0,
+   "max": 55.0,
+   "bil": 1,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-04"
+  },
+  {
+   "kod": 1475,
+   "daerah": "Kerian",
+   "median": 45.0,
+   "min": 30.0,
+   "max": 48.0,
+   "bil": 13,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1475,
+   "daerah": "Kinta",
+   "median": 38.0,
+   "min": 32.0,
+   "max": 69.9,
+   "bil": 41,
+   "premis": 7,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1475,
+   "daerah": "Kuala Kangsar",
+   "median": 55.0,
+   "min": 46.0,
+   "max": 55.0,
+   "bil": 4,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-07"
+  },
+  {
+   "kod": 1475,
+   "daerah": "Manjung",
+   "median": 50.0,
+   "min": 37.9,
+   "max": 55.0,
+   "bil": 3,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-04"
+  },
+  {
+   "kod": 1475,
+   "daerah": "Muallim",
+   "median": 38.0,
+   "min": 38.0,
+   "max": 38.0,
+   "bil": 1,
+   "premis": 1,
+   "tarikh_terkini": "2026-10-31"
+  },
+  {
+   "kod": 1476,
+   "daerah": "Batang Padang",
+   "median": 16.0,
+   "min": 14.0,
+   "max": 18.9,
+   "bil": 35,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1476,
+   "daerah": "Hilir Perak",
+   "median": 15.99,
+   "min": 12.0,
+   "max": 18.0,
+   "bil": 5,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1476,
+   "daerah": "Hulu Perak",
+   "median": 13.9,
+   "min": 11.9,
+   "max": 20.0,
+   "bil": 49,
+   "premis": 9,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1476,
+   "daerah": "Kerian",
+   "median": 14.0,
+   "min": 10.9,
+   "max": 18.0,
+   "bil": 81,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1476,
+   "daerah": "Kinta",
+   "median": 14.0,
+   "min": 7.9,
+   "max": 22.9,
+   "bil": 142,
+   "premis": 19,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1476,
+   "daerah": "Kuala Kangsar",
+   "median": 15.99,
+   "min": 8.4,
+   "max": 17.99,
+   "bil": 43,
+   "premis": 9,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1476,
+   "daerah": "Larut, Matang & Selama",
+   "median": 16.0,
+   "min": 13.0,
+   "max": 20.0,
+   "bil": 5,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1476,
+   "daerah": "Manjung",
+   "median": 15.0,
+   "min": 7.9,
+   "max": 18.0,
+   "bil": 63,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1476,
+   "daerah": "Muallim",
+   "median": 16.0,
+   "min": 7.9,
+   "max": 18.9,
+   "bil": 25,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1476,
+   "daerah": "Perak Tengah",
+   "median": 16.0,
+   "min": 8.99,
+   "max": 17.0,
+   "bil": 10,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-11"
+  },
+  {
+   "kod": 1477,
+   "daerah": "Bagan Datuk",
+   "median": 17.0,
+   "min": 13.99,
+   "max": 19.9,
+   "bil": 15,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1477,
+   "daerah": "Batang Padang",
+   "median": 20.0,
+   "min": 13.9,
+   "max": 26.0,
+   "bil": 35,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1477,
+   "daerah": "Hilir Perak",
+   "median": 16.99,
+   "min": 12.0,
+   "max": 23.9,
+   "bil": 54,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1477,
+   "daerah": "Hulu Perak",
+   "median": 15.99,
+   "min": 12.59,
+   "max": 23.0,
+   "bil": 82,
+   "premis": 9,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1477,
+   "daerah": "Kerian",
+   "median": 15.0,
+   "min": 9.9,
+   "max": 22.0,
+   "bil": 74,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1477,
+   "daerah": "Kinta",
+   "median": 17.99,
+   "min": 11.59,
+   "max": 29.9,
+   "bil": 180,
+   "premis": 22,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1477,
+   "daerah": "Kuala Kangsar",
+   "median": 18.0,
+   "min": 9.1,
+   "max": 23.9,
+   "bil": 123,
+   "premis": 14,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1477,
+   "daerah": "Larut, Matang & Selama",
+   "median": 16.99,
+   "min": 11.9,
+   "max": 24.0,
+   "bil": 120,
+   "premis": 17,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1477,
+   "daerah": "Manjung",
+   "median": 18.99,
+   "min": 8.99,
+   "max": 23.9,
+   "bil": 86,
+   "premis": 11,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1477,
+   "daerah": "Muallim",
+   "median": 18.74,
+   "min": 12.99,
+   "max": 26.0,
+   "bil": 26,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1477,
+   "daerah": "Perak Tengah",
+   "median": 16.99,
+   "min": 11.59,
+   "max": 20.0,
+   "bil": 25,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1545,
+   "daerah": "Bagan Datuk",
+   "median": 49.04,
+   "min": 44.23,
+   "max": 53.85,
+   "bil": 4,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1545,
+   "daerah": "Batang Padang",
+   "median": 61.54,
+   "min": 61.54,
+   "max": 61.54,
+   "bil": 2,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1545,
+   "daerah": "Hilir Perak",
+   "median": 59.04,
+   "min": 44.23,
+   "max": 61.54,
+   "bil": 8,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1545,
+   "daerah": "Hulu Perak",
+   "median": 44.23,
+   "min": 44.23,
+   "max": 61.54,
+   "bil": 6,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1545,
+   "daerah": "Kerian",
+   "median": 53.85,
+   "min": 44.23,
+   "max": 57.69,
+   "bil": 8,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1545,
+   "daerah": "Kinta",
+   "median": 53.46,
+   "min": 44.23,
+   "max": 61.54,
+   "bil": 25,
+   "premis": 13,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1545,
+   "daerah": "Kuala Kangsar",
+   "median": 61.54,
+   "min": 50.0,
+   "max": 73.08,
+   "bil": 10,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1545,
+   "daerah": "Larut, Matang & Selama",
+   "median": 56.54,
+   "min": 44.23,
+   "max": 61.54,
+   "bil": 10,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1545,
+   "daerah": "Manjung",
+   "median": 57.69,
+   "min": 46.15,
+   "max": 61.54,
+   "bil": 6,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1545,
+   "daerah": "Muallim",
+   "median": 44.23,
+   "min": 44.23,
+   "max": 44.23,
+   "bil": 2,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1545,
+   "daerah": "Perak Tengah",
+   "median": 46.15,
+   "min": 44.23,
+   "max": 46.15,
+   "bil": 3,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1554,
+   "daerah": "Bagan Datuk",
+   "median": 43.49,
+   "min": 36.99,
+   "max": 49.99,
+   "bil": 2,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1554,
+   "daerah": "Batang Padang",
+   "median": 52.99,
+   "min": 52.0,
+   "max": 55.0,
+   "bil": 6,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1554,
+   "daerah": "Hilir Perak",
+   "median": 52.0,
+   "min": 42.99,
+   "max": 59.99,
+   "bil": 12,
+   "premis": 7,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1554,
+   "daerah": "Hulu Perak",
+   "median": 51.99,
+   "min": 49.0,
+   "max": 54.59,
+   "bil": 5,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1554,
+   "daerah": "Kerian",
+   "median": 51.9,
+   "min": 47.9,
+   "max": 69.9,
+   "bil": 9,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1554,
+   "daerah": "Kinta",
+   "median": 52.99,
+   "min": 38.0,
+   "max": 89.9,
+   "bil": 34,
+   "premis": 20,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1554,
+   "daerah": "Kuala Kangsar",
+   "median": 52.0,
+   "min": 48.99,
+   "max": 52.99,
+   "bil": 8,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1554,
+   "daerah": "Larut, Matang & Selama",
+   "median": 51.99,
+   "min": 46.9,
+   "max": 89.9,
+   "bil": 11,
+   "premis": 6,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1554,
+   "daerah": "Manjung",
+   "median": 52.0,
+   "min": 40.99,
+   "max": 85.9,
+   "bil": 12,
+   "premis": 7,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1554,
+   "daerah": "Muallim",
+   "median": 52.0,
+   "min": 36.59,
+   "max": 58.0,
+   "bil": 5,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1554,
+   "daerah": "Perak Tengah",
+   "median": 54.0,
+   "min": 53.59,
+   "max": 55.99,
+   "bil": 5,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1555,
+   "daerah": "Bagan Datuk",
+   "median": 32.0,
+   "min": 23.2,
+   "max": 36.59,
+   "bil": 23,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1555,
+   "daerah": "Batang Padang",
+   "median": 32.0,
+   "min": 24.99,
+   "max": 36.0,
+   "bil": 44,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1555,
+   "daerah": "Hilir Perak",
+   "median": 29.99,
+   "min": 23.1,
+   "max": 39.9,
+   "bil": 75,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1555,
+   "daerah": "Hulu Perak",
+   "median": 30.0,
+   "min": 24.99,
+   "max": 39.9,
+   "bil": 92,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1555,
+   "daerah": "Kerian",
+   "median": 31.9,
+   "min": 26.0,
+   "max": 41.9,
+   "bil": 72,
+   "premis": 8,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1555,
+   "daerah": "Kinta",
+   "median": 31.9,
+   "min": 24.99,
+   "max": 49.9,
+   "bil": 212,
+   "premis": 24,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1555,
+   "daerah": "Kuala Kangsar",
+   "median": 29.9,
+   "min": 19.6,
+   "max": 37.99,
+   "bil": 107,
+   "premis": 13,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1555,
+   "daerah": "Larut, Matang & Selama",
+   "median": 29.9,
+   "min": 24.0,
+   "max": 49.9,
+   "bil": 101,
+   "premis": 15,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1555,
+   "daerah": "Manjung",
+   "median": 29.99,
+   "min": 24.99,
+   "max": 39.9,
+   "bil": 89,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1555,
+   "daerah": "Muallim",
+   "median": 34.0,
+   "min": 26.0,
+   "max": 36.9,
+   "bil": 30,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1555,
+   "daerah": "Perak Tengah",
+   "median": 30.0,
+   "min": 25.59,
+   "max": 36.0,
+   "bil": 19,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1562,
+   "daerah": "Bagan Datuk",
+   "median": 67.9,
+   "min": 67.9,
+   "max": 67.9,
+   "bil": 2,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1562,
+   "daerah": "Batang Padang",
+   "median": 79.0,
+   "min": 79.0,
+   "max": 89.9,
+   "bil": 3,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1562,
+   "daerah": "Hulu Perak",
+   "median": 79.9,
+   "min": 79.9,
+   "max": 119.0,
+   "bil": 8,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1562,
+   "daerah": "Kerian",
+   "median": 67.9,
+   "min": 59.0,
+   "max": 69.9,
+   "bil": 8,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1562,
+   "daerah": "Kinta",
+   "median": 74.45,
+   "min": 49.9,
+   "max": 109.9,
+   "bil": 26,
+   "premis": 13,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1562,
+   "daerah": "Kuala Kangsar",
+   "median": 109.9,
+   "min": 67.9,
+   "max": 119.0,
+   "bil": 12,
+   "premis": 6,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1562,
+   "daerah": "Larut, Matang & Selama",
+   "median": 92.45,
+   "min": 69.9,
+   "max": 119.0,
+   "bil": 16,
+   "premis": 8,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1562,
+   "daerah": "Manjung",
+   "median": 76.9,
+   "min": 67.9,
+   "max": 119.0,
+   "bil": 10,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1562,
+   "daerah": "Muallim",
+   "median": 84.9,
+   "min": 79.9,
+   "max": 89.9,
+   "bil": 4,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1562,
+   "daerah": "Perak Tengah",
+   "median": 67.9,
+   "min": 67.9,
+   "max": 117.9,
+   "bil": 3,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1563,
+   "daerah": "Kerian",
+   "median": 54.99,
+   "min": 54.99,
+   "max": 54.99,
+   "bil": 2,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1563,
+   "daerah": "Kinta",
+   "median": 63.95,
+   "min": 54.99,
+   "max": 64.9,
+   "bil": 8,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1563,
+   "daerah": "Kuala Kangsar",
+   "median": 112.95,
+   "min": 100.0,
+   "max": 125.9,
+   "bil": 2,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1563,
+   "daerah": "Perak Tengah",
+   "median": 119.9,
+   "min": 119.9,
+   "max": 119.9,
+   "bil": 2,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1568,
+   "daerah": "Bagan Datuk",
+   "median": 22.78,
+   "min": 21.6,
+   "max": 23.96,
+   "bil": 4,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1568,
+   "daerah": "Batang Padang",
+   "median": 26.0,
+   "min": 21.96,
+   "max": 27.6,
+   "bil": 14,
+   "premis": 7,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1568,
+   "daerah": "Hilir Perak",
+   "median": 25.2,
+   "min": 20.0,
+   "max": 26.8,
+   "bil": 22,
+   "premis": 11,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1568,
+   "daerah": "Hulu Perak",
+   "median": 25.2,
+   "min": 21.96,
+   "max": 28.0,
+   "bil": 24,
+   "premis": 12,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1568,
+   "daerah": "Kerian",
+   "median": 26.0,
+   "min": 22.0,
+   "max": 27.2,
+   "bil": 25,
+   "premis": 13,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1568,
+   "daerah": "Kinta",
+   "median": 26.0,
+   "min": 21.96,
+   "max": 27.0,
+   "bil": 62,
+   "premis": 31,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1568,
+   "daerah": "Kuala Kangsar",
+   "median": 24.84,
+   "min": 21.96,
+   "max": 27.6,
+   "bil": 34,
+   "premis": 17,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1568,
+   "daerah": "Larut, Matang & Selama",
+   "median": 26.0,
+   "min": 22.0,
+   "max": 28.2,
+   "bil": 38,
+   "premis": 19,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1568,
+   "daerah": "Manjung",
+   "median": 25.6,
+   "min": 21.96,
+   "max": 27.6,
+   "bil": 30,
+   "premis": 15,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1568,
+   "daerah": "Muallim",
+   "median": 24.8,
+   "min": 22.0,
+   "max": 27.2,
+   "bil": 10,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1568,
+   "daerah": "Perak Tengah",
+   "median": 25.16,
+   "min": 19.6,
+   "max": 28.0,
+   "bil": 6,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1915,
+   "daerah": "Batang Padang",
+   "median": 45.99,
+   "min": 44.9,
+   "max": 55.0,
+   "bil": 7,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1915,
+   "daerah": "Hilir Perak",
+   "median": 44.9,
+   "min": 38.99,
+   "max": 45.99,
+   "bil": 4,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1915,
+   "daerah": "Hulu Perak",
+   "median": 45.0,
+   "min": 39.9,
+   "max": 50.0,
+   "bil": 14,
+   "premis": 8,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1915,
+   "daerah": "Kerian",
+   "median": 45.0,
+   "min": 33.9,
+   "max": 65.9,
+   "bil": 11,
+   "premis": 6,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1915,
+   "daerah": "Kinta",
+   "median": 45.99,
+   "min": 30.59,
+   "max": 79.9,
+   "bil": 30,
+   "premis": 17,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1915,
+   "daerah": "Kuala Kangsar",
+   "median": 44.9,
+   "min": 34.59,
+   "max": 50.0,
+   "bil": 9,
+   "premis": 6,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1915,
+   "daerah": "Larut, Matang & Selama",
+   "median": 45.99,
+   "min": 36.59,
+   "max": 82.9,
+   "bil": 11,
+   "premis": 6,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1915,
+   "daerah": "Manjung",
+   "median": 45.99,
+   "min": 43.99,
+   "max": 75.9,
+   "bil": 11,
+   "premis": 6,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1915,
+   "daerah": "Muallim",
+   "median": 44.9,
+   "min": 30.59,
+   "max": 58.0,
+   "bil": 5,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1915,
+   "daerah": "Perak Tengah",
+   "median": 48.99,
+   "min": 48.99,
+   "max": 48.99,
+   "bil": 2,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1916,
+   "daerah": "Batang Padang",
+   "median": 32.99,
+   "min": 31.0,
+   "max": 33.99,
+   "bil": 21,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1916,
+   "daerah": "Hulu Perak",
+   "median": 29.99,
+   "min": 21.99,
+   "max": 36.99,
+   "bil": 45,
+   "premis": 6,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1916,
+   "daerah": "Kerian",
+   "median": 30.9,
+   "min": 24.0,
+   "max": 37.9,
+   "bil": 84,
+   "premis": 8,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1916,
+   "daerah": "Kinta",
+   "median": 29.99,
+   "min": 15.0,
+   "max": 41.59,
+   "bil": 135,
+   "premis": 18,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1916,
+   "daerah": "Kuala Kangsar",
+   "median": 32.99,
+   "min": 22.9,
+   "max": 36.0,
+   "bil": 50,
+   "premis": 8,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1916,
+   "daerah": "Larut, Matang & Selama",
+   "median": 28.0,
+   "min": 16.0,
+   "max": 34.0,
+   "bil": 65,
+   "premis": 11,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1916,
+   "daerah": "Manjung",
+   "median": 30.9,
+   "min": 16.0,
+   "max": 33.99,
+   "bil": 36,
+   "premis": 7,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1916,
+   "daerah": "Muallim",
+   "median": 34.0,
+   "min": 34.0,
+   "max": 34.0,
+   "bil": 9,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1916,
+   "daerah": "Perak Tengah",
+   "median": 30.0,
+   "min": 30.0,
+   "max": 30.99,
+   "bil": 11,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1919,
+   "daerah": "Kerian",
+   "median": 55.5,
+   "min": 55.0,
+   "max": 56.0,
+   "bil": 2,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1919,
+   "daerah": "Larut, Matang & Selama",
+   "median": 56.0,
+   "min": 56.0,
+   "max": 56.0,
+   "bil": 1,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1919,
+   "daerah": "Manjung",
+   "median": 68.0,
+   "min": 68.0,
+   "max": 68.0,
+   "bil": 1,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-02"
+  },
+  {
+   "kod": 1921,
+   "daerah": "Bagan Datuk",
+   "median": 16.0,
+   "min": 16.0,
+   "max": 16.0,
+   "bil": 2,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-02"
+  },
+  {
+   "kod": 1921,
+   "daerah": "Batang Padang",
+   "median": 17.0,
+   "min": 15.0,
+   "max": 18.0,
+   "bil": 28,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1921,
+   "daerah": "Hilir Perak",
+   "median": 15.0,
+   "min": 11.99,
+   "max": 20.0,
+   "bil": 23,
+   "premis": 4,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1921,
+   "daerah": "Hulu Perak",
+   "median": 15.0,
+   "min": 12.9,
+   "max": 18.0,
+   "bil": 48,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1921,
+   "daerah": "Kerian",
+   "median": 15.9,
+   "min": 12.0,
+   "max": 18.0,
+   "bil": 55,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1921,
+   "daerah": "Kinta",
+   "median": 16.0,
+   "min": 9.99,
+   "max": 20.0,
+   "bil": 76,
+   "premis": 12,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1921,
+   "daerah": "Kuala Kangsar",
+   "median": 16.0,
+   "min": 10.5,
+   "max": 18.0,
+   "bil": 53,
+   "premis": 9,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1921,
+   "daerah": "Larut, Matang & Selama",
+   "median": 16.99,
+   "min": 12.9,
+   "max": 20.0,
+   "bil": 59,
+   "premis": 9,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1921,
+   "daerah": "Manjung",
+   "median": 15.0,
+   "min": 12.99,
+   "max": 21.0,
+   "bil": 56,
+   "premis": 7,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1921,
+   "daerah": "Muallim",
+   "median": 18.0,
+   "min": 18.0,
+   "max": 22.0,
+   "bil": 11,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1921,
+   "daerah": "Perak Tengah",
+   "median": 18.0,
+   "min": 15.0,
+   "max": 20.0,
+   "bil": 5,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-07"
+  },
+  {
+   "kod": 2045,
+   "daerah": "Bagan Datuk",
+   "median": 7.59,
+   "min": 7.59,
+   "max": 14.0,
+   "bil": 9,
+   "premis": 2,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 2045,
+   "daerah": "Batang Padang",
+   "median": 14.0,
+   "min": 9.99,
+   "max": 16.0,
+   "bil": 50,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2045,
+   "daerah": "Hilir Perak",
+   "median": 10.0,
+   "min": 8.0,
+   "max": 13.9,
+   "bil": 51,
+   "premis": 7,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2045,
+   "daerah": "Hulu Perak",
+   "median": 11.79,
+   "min": 8.9,
+   "max": 17.0,
+   "bil": 88,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2045,
+   "daerah": "Kerian",
+   "median": 12.0,
+   "min": 8.89,
+   "max": 16.9,
+   "bil": 97,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2045,
+   "daerah": "Kinta",
+   "median": 10.99,
+   "min": 7.99,
+   "max": 16.9,
+   "bil": 194,
+   "premis": 22,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2045,
+   "daerah": "Kuala Kangsar",
+   "median": 12.0,
+   "min": 8.4,
+   "max": 16.0,
+   "bil": 115,
+   "premis": 13,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2045,
+   "daerah": "Larut, Matang & Selama",
+   "median": 10.9,
+   "min": 7.99,
+   "max": 21.9,
+   "bil": 126,
+   "premis": 17,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2045,
+   "daerah": "Manjung",
+   "median": 11.99,
+   "min": 5.6,
+   "max": 15.9,
+   "bil": 112,
+   "premis": 12,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2045,
+   "daerah": "Muallim",
+   "median": 12.59,
+   "min": 6.9,
+   "max": 16.0,
+   "bil": 29,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2045,
+   "daerah": "Perak Tengah",
+   "median": 9.99,
+   "min": 7.99,
+   "max": 14.0,
+   "bil": 30,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2047,
+   "daerah": "Bagan Datuk",
+   "median": 10.9,
+   "min": 6.59,
+   "max": 16.0,
+   "bil": 22,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2047,
+   "daerah": "Batang Padang",
+   "median": 15.0,
+   "min": 12.0,
+   "max": 18.0,
+   "bil": 53,
+   "premis": 5,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2047,
+   "daerah": "Hilir Perak",
+   "median": 11.99,
+   "min": 10.0,
+   "max": 16.9,
+   "bil": 71,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2047,
+   "daerah": "Hulu Perak",
+   "median": 12.0,
+   "min": 8.59,
+   "max": 17.0,
+   "bil": 95,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2047,
+   "daerah": "Kerian",
+   "median": 12.59,
+   "min": 7.8,
+   "max": 16.9,
+   "bil": 99,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2047,
+   "daerah": "Kinta",
+   "median": 12.99,
+   "min": 7.99,
+   "max": 22.9,
+   "bil": 211,
+   "premis": 23,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2047,
+   "daerah": "Kuala Kangsar",
+   "median": 13.99,
+   "min": 6.3,
+   "max": 16.9,
+   "bil": 123,
+   "premis": 14,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2047,
+   "daerah": "Larut, Matang & Selama",
+   "median": 12.0,
+   "min": 8.0,
+   "max": 16.9,
+   "bil": 135,
+   "premis": 19,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2047,
+   "daerah": "Manjung",
+   "median": 12.0,
+   "min": 7.99,
+   "max": 16.0,
+   "bil": 104,
+   "premis": 12,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2047,
+   "daerah": "Muallim",
+   "median": 13.9,
+   "min": 9.99,
+   "max": 18.0,
+   "bil": 31,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2047,
+   "daerah": "Perak Tengah",
+   "median": 10.79,
+   "min": 8.99,
+   "max": 16.0,
+   "bil": 27,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-12"
+  }
+ ],
+ "negeri_median": [
+  {
+   "kod": 43,
+   "median": 24.99,
+   "min": 17.9,
+   "max": 39.9,
+   "bil": 112,
+   "premis": 68,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 47,
+   "median": 10.0,
+   "min": 4.9,
+   "max": 16.0,
+   "bil": 967,
+   "premis": 110,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 52,
+   "median": 22.9,
+   "min": 13.59,
+   "max": 34.99,
+   "bil": 60,
+   "premis": 35,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 55,
+   "median": 12.0,
+   "min": 6.0,
+   "max": 20.9,
+   "bil": 380,
+   "premis": 61,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 64,
+   "median": 25.95,
+   "min": 19.9,
+   "max": 49.99,
+   "bil": 60,
+   "premis": 35,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 69,
+   "median": 10.0,
+   "min": 2.99,
+   "max": 19.9,
+   "bil": 219,
+   "premis": 48,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 70,
+   "median": 16.0,
+   "min": 7.59,
+   "max": 29.9,
+   "bil": 781,
+   "premis": 101,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 88,
+   "median": 9.9,
+   "min": 7.0,
+   "max": 13.0,
+   "bil": 950,
+   "premis": 100,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 350,
+   "median": 23.6,
+   "min": 20.8,
+   "max": 27.6,
+   "bil": 343,
+   "premis": 177,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 845,
+   "median": 34.0,
+   "min": 16.9,
+   "max": 49.99,
+   "bil": 743,
+   "premis": 103,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 847,
+   "median": 35.9,
+   "min": 24.0,
+   "max": 59.9,
+   "bil": 582,
+   "premis": 85,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 849,
+   "median": 17.99,
+   "min": 10.5,
+   "max": 26.9,
+   "bil": 77,
+   "premis": 45,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 850,
+   "median": 34.0,
+   "min": 16.99,
+   "max": 69.9,
+   "bil": 49,
+   "premis": 33,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1138,
+   "median": 16.91,
+   "min": 14.38,
+   "max": 20.29,
+   "bil": 299,
+   "premis": 157,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1391,
+   "median": 39.0,
+   "min": 30.0,
+   "max": 58.0,
+   "bil": 11,
+   "premis": 8,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1436,
+   "median": 15.0,
+   "min": 6.99,
+   "max": 27.0,
+   "bil": 801,
+   "premis": 100,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1437,
+   "median": 18.0,
+   "min": 12.9,
+   "max": 26.9,
+   "bil": 98,
+   "premis": 59,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1438,
+   "median": 45.0,
+   "min": 29.99,
+   "max": 79.9,
+   "bil": 72,
+   "premis": 45,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1475,
+   "median": 40.0,
+   "min": 30.0,
+   "max": 69.9,
+   "bil": 63,
+   "premis": 15,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1476,
+   "median": 14.99,
+   "min": 7.9,
+   "max": 22.9,
+   "bil": 458,
+   "premis": 73,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1477,
+   "median": 17.0,
+   "min": 8.99,
+   "max": 29.9,
+   "bil": 820,
+   "premis": 107,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1545,
+   "median": 55.19,
+   "min": 44.23,
+   "max": 73.08,
+   "bil": 84,
+   "premis": 43,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1554,
+   "median": 52.0,
+   "min": 36.59,
+   "max": 89.9,
+   "bil": 109,
+   "premis": 62,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1555,
+   "median": 30.0,
+   "min": 19.6,
+   "max": 49.9,
+   "bil": 864,
+   "premis": 104,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1562,
+   "median": 79.9,
+   "min": 49.9,
+   "max": 119.0,
+   "bil": 92,
+   "premis": 47,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1563,
+   "median": 64.9,
+   "min": 54.99,
+   "max": 125.9,
+   "bil": 14,
+   "premis": 9,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1568,
+   "median": 25.6,
+   "min": 19.6,
+   "max": 28.2,
+   "bil": 269,
+   "premis": 135,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1915,
+   "median": 45.0,
+   "min": 30.59,
+   "max": 82.9,
+   "bil": 104,
+   "premis": 59,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1916,
+   "median": 30.9,
+   "min": 15.0,
+   "max": 41.59,
+   "bil": 456,
+   "premis": 63,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 1919,
+   "median": 56.0,
+   "min": 55.0,
+   "max": 68.0,
+   "bil": 4,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-05"
+  },
+  {
+   "kod": 1921,
+   "median": 16.0,
+   "min": 9.99,
+   "max": 22.0,
+   "bil": 416,
+   "premis": 57,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2045,
+   "median": 11.59,
+   "min": 5.6,
+   "max": 21.9,
+   "bil": 901,
+   "premis": 104,
+   "tarikh_terkini": "2026-11-12"
+  },
+  {
+   "kod": 2047,
+   "median": 12.9,
+   "min": 6.3,
+   "max": 22.9,
+   "bil": 971,
+   "premis": 112,
+   "tarikh_terkini": "2026-11-12"
+  }
+ ]
+}
