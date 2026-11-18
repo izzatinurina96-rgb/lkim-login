@@ -1,8 +1,8 @@
 {
  "sumber": "KPDN PriceCatcher melalui data.gov.my (data terbuka kerajaan)",
  "negeri": "Perak",
- "dijana": "2026-11-17T10:25:34+08:00",
- "data_hingga": "2026-11-16",
+ "dijana": "2026-11-18T10:22:48+08:00",
+ "data_hingga": "2026-11-17",
  "tempoh_hari": 14,
  "item": [
   {
@@ -285,22 +285,22 @@
   {
    "kod": 47,
    "daerah": "Bagan Datuk",
-   "median": 10.5,
+   "median": 10.25,
    "min": 6.59,
    "max": 12.0,
    "bil": 32,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
    "daerah": "Batang Padang",
    "median": 12.0,
-   "min": 6.9,
+   "min": 7.9,
    "max": 15.0,
    "bil": 52,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -308,9 +308,9 @@
    "median": 8.99,
    "min": 6.9,
    "max": 13.9,
-   "bil": 78,
+   "bil": 77,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -320,7 +320,7 @@
    "max": 13.9,
    "bil": 86,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -330,27 +330,27 @@
    "max": 12.0,
    "bil": 99,
    "premis": 9,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
    "daerah": "Kinta",
-   "median": 10.0,
+   "median": 9.99,
    "min": 6.9,
    "max": 16.0,
-   "bil": 217,
+   "bil": 219,
    "premis": 23,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
    "daerah": "Kuala Kangsar",
    "median": 10.9,
-   "min": 6.9,
+   "min": 7.5,
    "max": 13.9,
-   "bil": 112,
-   "premis": 14,
-   "tarikh_terkini": "2026-11-16"
+   "bil": 109,
+   "premis": 13,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -358,9 +358,9 @@
    "median": 9.9,
    "min": 6.99,
    "max": 13.0,
-   "bil": 130,
+   "bil": 128,
    "premis": 18,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -370,27 +370,27 @@
    "max": 13.9,
    "bil": 113,
    "premis": 12,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
    "daerah": "Muallim",
-   "median": 11.9,
+   "median": 11.95,
    "min": 6.9,
    "max": 14.0,
-   "bil": 29,
+   "bil": 30,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
    "daerah": "Perak Tengah",
    "median": 7.99,
-   "min": 6.99,
+   "min": 5.99,
    "max": 14.0,
-   "bil": 29,
+   "bil": 30,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 52,
@@ -495,20 +495,20 @@
   {
    "kod": 55,
    "daerah": "Bagan Datuk",
-   "median": 11.99,
+   "median": 13.0,
    "min": 7.99,
-   "max": 16.0,
+   "max": 16.99,
    "bil": 17,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
    "daerah": "Batang Padang",
-   "median": 14.45,
+   "median": 15.9,
    "min": 12.0,
    "max": 15.9,
-   "bil": 4,
+   "bil": 3,
    "premis": 2,
    "tarikh_terkini": "2026-11-14"
   },
@@ -520,17 +520,17 @@
    "max": 20.9,
    "bil": 39,
    "premis": 7,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
    "daerah": "Hulu Perak",
-   "median": 12.99,
+   "median": 13.0,
    "min": 7.9,
    "max": 18.0,
    "bil": 27,
    "premis": 6,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
@@ -540,7 +540,7 @@
    "max": 13.0,
    "bil": 48,
    "premis": 6,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
@@ -548,39 +548,39 @@
    "median": 10.0,
    "min": 6.0,
    "max": 20.0,
-   "bil": 29,
-   "premis": 9,
-   "tarikh_terkini": "2026-11-16"
+   "bil": 30,
+   "premis": 10,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
    "daerah": "Kuala Kangsar",
-   "median": 12.9,
-   "min": 7.9,
+   "median": 13.0,
+   "min": 7.0,
    "max": 19.0,
    "bil": 56,
-   "premis": 8,
-   "tarikh_terkini": "2026-11-16"
+   "premis": 9,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
    "daerah": "Larut, Matang & Selama",
-   "median": 14.75,
+   "median": 14.9,
    "min": 8.0,
    "max": 19.9,
    "bil": 98,
    "premis": 15,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
    "daerah": "Manjung",
-   "median": 10.5,
+   "median": 10.0,
    "min": 7.0,
    "max": 17.9,
    "bil": 26,
    "premis": 6,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 64,
@@ -708,9 +708,9 @@
    "median": 10.99,
    "min": 8.99,
    "max": 12.0,
-   "bil": 14,
+   "bil": 15,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 69,
@@ -718,9 +718,9 @@
    "median": 8.45,
    "min": 5.99,
    "max": 10.9,
-   "bil": 8,
+   "bil": 10,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 69,
@@ -728,9 +728,9 @@
    "median": 10.9,
    "min": 6.99,
    "max": 12.59,
-   "bil": 17,
+   "bil": 20,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 69,
@@ -738,19 +738,19 @@
    "median": 10.59,
    "min": 6.0,
    "max": 13.99,
-   "bil": 25,
+   "bil": 23,
    "premis": 6,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 69,
    "daerah": "Kinta",
    "median": 10.99,
    "min": 4.59,
-   "max": 14.99,
-   "bil": 69,
+   "max": 14.0,
+   "bil": 72,
    "premis": 12,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 69,
@@ -759,58 +759,58 @@
    "min": 8.0,
    "max": 12.9,
    "bil": 12,
-   "premis": 4,
-   "tarikh_terkini": "2026-11-16"
+   "premis": 3,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 69,
    "daerah": "Larut, Matang & Selama",
-   "median": 10.79,
+   "median": 10.99,
    "min": 7.0,
    "max": 18.0,
-   "bil": 16,
-   "premis": 7,
-   "tarikh_terkini": "2026-11-16"
+   "bil": 17,
+   "premis": 6,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 69,
    "daerah": "Manjung",
    "median": 9.99,
-   "min": 2.99,
+   "min": 3.99,
    "max": 16.0,
-   "bil": 25,
+   "bil": 22,
    "premis": 7,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 69,
    "daerah": "Muallim",
    "median": 10.9,
    "min": 8.9,
-   "max": 12.9,
+   "max": 12.0,
    "bil": 10,
    "premis": 2,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 69,
    "daerah": "Perak Tengah",
-   "median": 3.99,
+   "median": 3.79,
    "min": 3.59,
    "max": 3.99,
-   "bil": 3,
+   "bil": 2,
    "premis": 1,
    "tarikh_terkini": "2026-11-11"
   },
   {
    "kod": 70,
    "daerah": "Bagan Datuk",
-   "median": 12.99,
+   "median": 15.0,
    "min": 7.99,
    "max": 16.0,
-   "bil": 26,
+   "bil": 25,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -818,29 +818,29 @@
    "median": 19.9,
    "min": 8.9,
    "max": 24.0,
-   "bil": 47,
+   "bil": 48,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
    "daerah": "Hilir Perak",
-   "median": 14.5,
-   "min": 10.0,
+   "median": 15.0,
+   "min": 9.99,
    "max": 23.9,
-   "bil": 60,
+   "bil": 61,
    "premis": 9,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
    "daerah": "Hulu Perak",
    "median": 16.0,
-   "min": 9.59,
-   "max": 20.0,
-   "bil": 61,
+   "min": 9.99,
+   "max": 19.99,
+   "bil": 62,
    "premis": 8,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -848,19 +848,19 @@
    "median": 15.0,
    "min": 10.0,
    "max": 21.9,
-   "bil": 93,
+   "bil": 94,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
    "daerah": "Kinta",
    "median": 16.99,
-   "min": 10.99,
+   "min": 9.99,
    "max": 29.9,
-   "bil": 206,
+   "bil": 209,
    "premis": 23,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -868,9 +868,9 @@
    "median": 16.99,
    "min": 10.9,
    "max": 22.0,
-   "bil": 101,
+   "bil": 102,
    "premis": 13,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -878,9 +878,9 @@
    "median": 14.99,
    "min": 10.0,
    "max": 29.9,
-   "bil": 104,
+   "bil": 105,
    "premis": 13,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -888,9 +888,9 @@
    "median": 16.99,
    "min": 7.99,
    "max": 25.9,
-   "bil": 78,
+   "bil": 81,
    "premis": 11,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -900,7 +900,7 @@
    "max": 26.0,
    "bil": 33,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -910,7 +910,7 @@
    "max": 20.0,
    "bil": 25,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -920,7 +920,7 @@
    "max": 10.99,
    "bil": 32,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -930,27 +930,27 @@
    "max": 10.0,
    "bil": 52,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
    "daerah": "Hilir Perak",
-   "median": 8.99,
+   "median": 9.25,
    "min": 7.0,
    "max": 11.9,
    "bil": 78,
    "premis": 9,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
    "daerah": "Hulu Perak",
    "median": 9.9,
    "min": 7.9,
-   "max": 12.0,
-   "bil": 88,
+   "max": 10.59,
+   "bil": 87,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -958,9 +958,9 @@
    "median": 9.0,
    "min": 7.99,
    "max": 11.9,
-   "bil": 98,
+   "bil": 97,
    "premis": 9,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -968,9 +968,9 @@
    "median": 10.0,
    "min": 7.9,
    "max": 12.9,
-   "bil": 199,
+   "bil": 197,
    "premis": 21,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -980,7 +980,7 @@
    "max": 13.0,
    "bil": 124,
    "premis": 14,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -988,9 +988,9 @@
    "median": 9.49,
    "min": 8.49,
    "max": 11.59,
-   "bil": 109,
+   "bil": 108,
    "premis": 13,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -1000,7 +1000,7 @@
    "max": 11.99,
    "bil": 93,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -1010,7 +1010,7 @@
    "max": 12.0,
    "bil": 32,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -1020,7 +1020,7 @@
    "max": 10.0,
    "bil": 31,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 350,
@@ -1138,9 +1138,9 @@
    "median": 34.99,
    "min": 27.99,
    "max": 38.0,
-   "bil": 23,
+   "bil": 21,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
@@ -1148,29 +1148,29 @@
    "median": 30.0,
    "min": 22.99,
    "max": 38.9,
-   "bil": 49,
+   "bil": 50,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
    "daerah": "Hilir Perak",
-   "median": 34.0,
+   "median": 34.3,
    "min": 22.99,
    "max": 44.99,
-   "bil": 62,
+   "bil": 64,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
    "daerah": "Hulu Perak",
    "median": 34.0,
-   "min": 22.0,
-   "max": 39.99,
-   "bil": 81,
+   "min": 23.59,
+   "max": 44.99,
+   "bil": 82,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
@@ -1180,7 +1180,7 @@
    "max": 45.9,
    "bil": 77,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
@@ -1188,9 +1188,9 @@
    "median": 34.0,
    "min": 16.9,
    "max": 49.8,
-   "bil": 201,
+   "bil": 204,
    "premis": 23,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
@@ -1198,9 +1198,9 @@
    "median": 36.0,
    "min": 27.5,
    "max": 44.99,
-   "bil": 62,
+   "bil": 58,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
@@ -1208,99 +1208,99 @@
    "median": 33.0,
    "min": 18.0,
    "max": 49.9,
-   "bil": 126,
+   "bil": 125,
    "premis": 18,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
    "daerah": "Manjung",
-   "median": 36.0,
+   "median": 35.9,
    "min": 25.99,
    "max": 49.99,
-   "bil": 61,
+   "bil": 65,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
    "daerah": "Muallim",
-   "median": 35.0,
+   "median": 36.0,
    "min": 26.9,
    "max": 38.0,
    "bil": 18,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
    "daerah": "Perak Tengah",
-   "median": 32.0,
-   "min": 25.99,
-   "max": 34.0,
-   "bil": 5,
-   "premis": 2,
-   "tarikh_terkini": "2026-11-14"
+   "median": 29.99,
+   "min": 25.95,
+   "max": 35.0,
+   "bil": 7,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
    "daerah": "Bagan Datuk",
-   "median": 33.0,
+   "median": 33.99,
    "min": 28.99,
    "max": 33.99,
-   "bil": 14,
+   "bil": 15,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
    "daerah": "Batang Padang",
-   "median": 42.0,
+   "median": 40.45,
    "min": 30.0,
    "max": 50.0,
-   "bil": 25,
+   "bil": 26,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
    "daerah": "Hilir Perak",
-   "median": 34.95,
+   "median": 34.9,
    "min": 25.0,
    "max": 45.99,
-   "bil": 42,
+   "bil": 43,
    "premis": 9,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
    "daerah": "Hulu Perak",
    "median": 32.99,
-   "min": 24.0,
+   "min": 26.99,
    "max": 49.0,
-   "bil": 38,
-   "premis": 7,
-   "tarikh_terkini": "2026-11-16"
+   "bil": 36,
+   "premis": 6,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
    "daerah": "Kerian",
-   "median": 35.9,
+   "median": 34.95,
    "min": 29.9,
    "max": 50.0,
-   "bil": 31,
-   "premis": 7,
-   "tarikh_terkini": "2026-11-16"
+   "bil": 30,
+   "premis": 6,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
    "daerah": "Kinta",
-   "median": 34.99,
+   "median": 34.9,
    "min": 23.0,
    "max": 59.9,
-   "bil": 184,
+   "bil": 183,
    "premis": 23,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
@@ -1310,7 +1310,7 @@
    "max": 46.0,
    "bil": 31,
    "premis": 9,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
@@ -1318,9 +1318,9 @@
    "median": 34.99,
    "min": 24.9,
    "max": 59.9,
-   "bil": 68,
+   "bil": 69,
    "premis": 9,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
@@ -1328,19 +1328,19 @@
    "median": 35.99,
    "min": 28.0,
    "max": 45.0,
-   "bil": 58,
+   "bil": 57,
    "premis": 9,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
    "daerah": "Muallim",
-   "median": 37.0,
+   "median": 35.99,
    "min": 29.9,
    "max": 48.0,
    "bil": 28,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
@@ -1350,7 +1350,7 @@
    "max": 36.0,
    "bil": 14,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 849,
@@ -1735,42 +1735,42 @@
   {
    "kod": 1436,
    "daerah": "Bagan Datuk",
-   "median": 15.5,
+   "median": 15.0,
    "min": 11.59,
    "max": 16.0,
-   "bil": 18,
+   "bil": 17,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
    "daerah": "Batang Padang",
    "median": 16.0,
-   "min": 12.0,
+   "min": 12.9,
    "max": 20.0,
-   "bil": 50,
+   "bil": 51,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
    "daerah": "Hilir Perak",
    "median": 13.99,
-   "min": 9.9,
+   "min": 10.9,
    "max": 18.9,
    "bil": 71,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
    "daerah": "Hulu Perak",
-   "median": 15.99,
+   "median": 15.0,
    "min": 8.99,
    "max": 18.9,
-   "bil": 55,
+   "bil": 57,
    "premis": 8,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -1778,19 +1778,19 @@
    "median": 14.0,
    "min": 10.59,
    "max": 19.9,
-   "bil": 90,
+   "bil": 91,
    "premis": 9,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
    "daerah": "Kinta",
    "median": 14.99,
    "min": 6.99,
-   "max": 27.0,
-   "bil": 206,
+   "max": 25.0,
+   "bil": 209,
    "premis": 23,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -1800,7 +1800,7 @@
    "max": 22.9,
    "bil": 97,
    "premis": 12,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -1808,9 +1808,9 @@
    "median": 14.0,
    "min": 8.59,
    "max": 22.9,
-   "bil": 109,
+   "bil": 110,
    "premis": 13,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -1818,29 +1818,29 @@
    "median": 15.0,
    "min": 7.99,
    "max": 19.99,
-   "bil": 96,
+   "bil": 100,
    "premis": 11,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
    "daerah": "Muallim",
-   "median": 18.0,
+   "median": 17.45,
    "min": 11.59,
    "max": 20.0,
-   "bil": 19,
+   "bil": 20,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
    "daerah": "Perak Tengah",
-   "median": 15.59,
+   "median": 15.29,
    "min": 7.99,
    "max": 17.0,
-   "bil": 27,
+   "bil": 28,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1437,
@@ -2080,7 +2080,7 @@
    "max": 48.0,
    "bil": 11,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1475,
@@ -2088,9 +2088,9 @@
    "median": 41.0,
    "min": 32.0,
    "max": 69.9,
-   "bil": 34,
+   "bil": 32,
    "premis": 6,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1475,
@@ -2105,21 +2105,21 @@
   {
    "kod": 1475,
    "daerah": "Larut, Matang & Selama",
-   "median": 45.0,
+   "median": 40.0,
    "min": 40.0,
    "max": 50.0,
-   "bil": 2,
+   "bil": 3,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1475,
    "daerah": "Manjung",
    "median": 55.0,
-   "min": 37.9,
+   "min": 55.0,
    "max": 55.0,
-   "bil": 3,
-   "premis": 3,
+   "bil": 2,
+   "premis": 2,
    "tarikh_terkini": "2026-11-16"
   },
   {
@@ -2130,27 +2130,27 @@
    "max": 18.0,
    "bil": 33,
    "premis": 4,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
    "daerah": "Hilir Perak",
-   "median": 16.0,
+   "median": 16.45,
    "min": 12.0,
-   "max": 17.99,
-   "bil": 5,
+   "max": 18.9,
+   "bil": 6,
    "premis": 4,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
    "daerah": "Hulu Perak",
-   "median": 15.49,
+   "median": 15.0,
    "min": 11.9,
    "max": 20.0,
    "bil": 56,
    "premis": 9,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
@@ -2158,29 +2158,29 @@
    "median": 14.0,
    "min": 10.9,
    "max": 16.9,
-   "bil": 81,
+   "bil": 82,
    "premis": 9,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
    "daerah": "Kinta",
    "median": 14.99,
    "min": 7.9,
-   "max": 22.9,
+   "max": 21.9,
    "bil": 144,
    "premis": 19,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
    "daerah": "Kuala Kangsar",
-   "median": 15.99,
+   "median": 15.95,
    "min": 10.9,
    "max": 18.0,
-   "bil": 47,
+   "bil": 46,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
@@ -2188,8 +2188,8 @@
    "median": 14.0,
    "min": 13.0,
    "max": 20.0,
-   "bil": 7,
-   "premis": 5,
+   "bil": 5,
+   "premis": 3,
    "tarikh_terkini": "2026-11-15"
   },
   {
@@ -2200,17 +2200,17 @@
    "max": 18.0,
    "bil": 65,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
    "daerah": "Muallim",
-   "median": 17.49,
+   "median": 18.0,
    "min": 7.9,
    "max": 18.9,
-   "bil": 20,
+   "bil": 19,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
@@ -2220,17 +2220,17 @@
    "max": 18.0,
    "bil": 10,
    "premis": 2,
-   "tarikh_terkini": "2026-11-14"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
    "daerah": "Bagan Datuk",
-   "median": 16.59,
+   "median": 16.55,
    "min": 10.99,
    "max": 19.9,
    "bil": 18,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -2238,9 +2238,9 @@
    "median": 20.0,
    "min": 13.9,
    "max": 26.0,
-   "bil": 47,
+   "bil": 50,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -2248,9 +2248,9 @@
    "median": 16.99,
    "min": 12.0,
    "max": 23.9,
-   "bil": 62,
+   "bil": 63,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -2258,19 +2258,19 @@
    "median": 16.0,
    "min": 12.59,
    "max": 23.0,
-   "bil": 91,
+   "bil": 92,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
    "daerah": "Kerian",
    "median": 15.0,
    "min": 9.9,
-   "max": 22.0,
-   "bil": 85,
+   "max": 21.9,
+   "bil": 87,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -2278,29 +2278,29 @@
    "median": 17.99,
    "min": 11.59,
    "max": 29.9,
-   "bil": 188,
-   "premis": 22,
-   "tarikh_terkini": "2026-11-16"
+   "bil": 195,
+   "premis": 23,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
    "daerah": "Kuala Kangsar",
    "median": 18.0,
-   "min": 9.99,
+   "min": 8.99,
    "max": 23.9,
-   "bil": 127,
+   "bil": 128,
    "premis": 14,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
    "daerah": "Larut, Matang & Selama",
    "median": 16.99,
    "min": 10.9,
-   "max": 24.0,
-   "bil": 121,
+   "max": 22.0,
+   "bil": 124,
    "premis": 17,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -2310,7 +2310,7 @@
    "max": 23.9,
    "bil": 95,
    "premis": 11,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -2320,7 +2320,7 @@
    "max": 26.0,
    "bil": 28,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -2328,9 +2328,9 @@
    "median": 16.99,
    "min": 10.99,
    "max": 20.0,
-   "bil": 26,
+   "bil": 27,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1545,
@@ -2558,19 +2558,19 @@
    "median": 30.99,
    "min": 27.59,
    "max": 34.99,
-   "bil": 23,
+   "bil": 22,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
    "daerah": "Batang Padang",
-   "median": 32.0,
+   "median": 32.9,
    "min": 24.99,
    "max": 37.9,
-   "bil": 45,
+   "bil": 47,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -2580,7 +2580,7 @@
    "max": 39.9,
    "bil": 78,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -2588,9 +2588,9 @@
    "median": 30.0,
    "min": 24.0,
    "max": 39.9,
-   "bil": 94,
+   "bil": 95,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -2598,9 +2598,9 @@
    "median": 30.0,
    "min": 25.8,
    "max": 41.9,
-   "bil": 71,
-   "premis": 8,
-   "tarikh_terkini": "2026-11-16"
+   "bil": 72,
+   "premis": 9,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -2608,9 +2608,9 @@
    "median": 31.9,
    "min": 24.79,
    "max": 49.9,
-   "bil": 215,
+   "bil": 217,
    "premis": 24,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -2618,39 +2618,39 @@
    "median": 29.9,
    "min": 24.0,
    "max": 39.9,
-   "bil": 101,
+   "bil": 102,
    "premis": 12,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
    "daerah": "Larut, Matang & Selama",
    "median": 29.99,
    "min": 24.0,
-   "max": 49.9,
-   "bil": 109,
+   "max": 39.9,
+   "bil": 110,
    "premis": 15,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
    "daerah": "Manjung",
-   "median": 30.0,
-   "min": 25.99,
+   "median": 29.99,
+   "min": 25.0,
    "max": 39.9,
-   "bil": 86,
+   "bil": 88,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
    "daerah": "Muallim",
-   "median": 34.0,
+   "median": 33.59,
    "min": 26.0,
    "max": 36.9,
-   "bil": 30,
+   "bil": 29,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -2658,9 +2658,9 @@
    "median": 30.0,
    "min": 25.59,
    "max": 36.0,
-   "bil": 20,
+   "bil": 21,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1562,
@@ -3037,40 +3037,40 @@
    "daerah": "Batang Padang",
    "median": 32.99,
    "min": 31.0,
-   "max": 33.99,
+   "max": 32.99,
    "bil": 21,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1916,
    "daerah": "Hulu Perak",
-   "median": 30.95,
+   "median": 31.9,
    "min": 21.99,
    "max": 35.99,
-   "bil": 42,
+   "bil": 43,
    "premis": 6,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1916,
    "daerah": "Kerian",
    "median": 30.9,
-   "min": 24.0,
+   "min": 25.59,
    "max": 37.9,
    "bil": 84,
    "premis": 8,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1916,
    "daerah": "Kinta",
    "median": 29.99,
-   "min": 15.0,
+   "min": 12.0,
    "max": 41.59,
-   "bil": 136,
+   "bil": 138,
    "premis": 20,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1916,
@@ -3080,27 +3080,27 @@
    "max": 34.99,
    "bil": 58,
    "premis": 8,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1916,
    "daerah": "Larut, Matang & Selama",
-   "median": 28.99,
+   "median": 30.0,
    "min": 16.0,
    "max": 34.0,
-   "bil": 57,
-   "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "bil": 53,
+   "premis": 9,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1916,
    "daerah": "Manjung",
-   "median": 30.0,
+   "median": 30.45,
    "min": 16.0,
    "max": 33.99,
-   "bil": 31,
+   "bil": 32,
    "premis": 7,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1916,
@@ -3108,7 +3108,7 @@
    "median": 34.0,
    "min": 34.0,
    "max": 34.0,
-   "bil": 8,
+   "bil": 7,
    "premis": 1,
    "tarikh_terkini": "2026-11-16"
   },
@@ -3118,9 +3118,9 @@
    "median": 30.0,
    "min": 30.0,
    "max": 30.99,
-   "bil": 8,
+   "bil": 9,
    "premis": 2,
-   "tarikh_terkini": "2026-11-14"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1919,
@@ -3160,7 +3160,7 @@
    "max": 18.0,
    "bil": 27,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -3170,7 +3170,7 @@
    "max": 20.0,
    "bil": 19,
    "premis": 4,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -3180,7 +3180,7 @@
    "max": 18.0,
    "bil": 47,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -3190,7 +3190,7 @@
    "max": 18.0,
    "bil": 55,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -3200,7 +3200,7 @@
    "max": 20.0,
    "bil": 82,
    "premis": 12,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -3208,9 +3208,9 @@
    "median": 16.0,
    "min": 10.9,
    "max": 18.0,
-   "bil": 53,
+   "bil": 51,
    "premis": 9,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -3218,9 +3218,9 @@
    "median": 16.99,
    "min": 12.9,
    "max": 20.0,
-   "bil": 60,
+   "bil": 61,
    "premis": 9,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -3228,9 +3228,9 @@
    "median": 15.0,
    "min": 12.99,
    "max": 21.0,
-   "bil": 59,
+   "bil": 62,
    "premis": 7,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -3240,7 +3240,7 @@
    "max": 22.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -3255,12 +3255,12 @@
   {
    "kod": 2045,
    "daerah": "Bagan Datuk",
-   "median": 7.99,
+   "median": 8.79,
    "min": 7.59,
    "max": 14.0,
    "bil": 10,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -3270,7 +3270,7 @@
    "max": 16.9,
    "bil": 51,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -3278,9 +3278,9 @@
    "median": 10.0,
    "min": 7.99,
    "max": 15.9,
-   "bil": 60,
+   "bil": 62,
    "premis": 8,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -3288,9 +3288,9 @@
    "median": 11.99,
    "min": 8.9,
    "max": 15.9,
-   "bil": 91,
+   "bil": 92,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -3300,7 +3300,7 @@
    "max": 16.9,
    "bil": 99,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -3310,7 +3310,7 @@
    "max": 16.9,
    "bil": 206,
    "premis": 22,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -3318,19 +3318,19 @@
    "median": 12.0,
    "min": 8.0,
    "max": 16.9,
-   "bil": 122,
+   "bil": 124,
    "premis": 14,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
    "daerah": "Larut, Matang & Selama",
-   "median": 10.9,
+   "median": 10.29,
    "min": 7.99,
    "max": 21.9,
-   "bil": 124,
+   "bil": 126,
    "premis": 17,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -3338,19 +3338,19 @@
    "median": 12.0,
    "min": 5.6,
    "max": 15.9,
-   "bil": 115,
+   "bil": 113,
    "premis": 12,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
    "daerah": "Muallim",
-   "median": 12.9,
+   "median": 14.0,
    "min": 6.9,
    "max": 16.0,
    "bil": 29,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -3360,7 +3360,7 @@
    "max": 14.0,
    "bil": 31,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -3368,19 +3368,19 @@
    "median": 10.99,
    "min": 7.9,
    "max": 16.0,
-   "bil": 19,
+   "bil": 18,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
    "daerah": "Batang Padang",
-   "median": 15.0,
+   "median": 15.9,
    "min": 12.0,
    "max": 18.0,
    "bil": 53,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -3390,27 +3390,27 @@
    "max": 15.99,
    "bil": 71,
    "premis": 9,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
    "daerah": "Hulu Perak",
    "median": 12.0,
-   "min": 7.99,
+   "min": 6.99,
    "max": 16.0,
    "bil": 95,
    "premis": 10,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
    "daerah": "Kerian",
-   "median": 12.95,
+   "median": 13.0,
    "min": 7.8,
    "max": 16.9,
-   "bil": 96,
+   "bil": 95,
    "premis": 9,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -3418,19 +3418,19 @@
    "median": 12.99,
    "min": 7.99,
    "max": 22.9,
-   "bil": 212,
+   "bil": 211,
    "premis": 23,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
    "daerah": "Kuala Kangsar",
-   "median": 13.99,
+   "median": 14.0,
    "min": 7.99,
    "max": 16.9,
-   "bil": 117,
+   "bil": 116,
    "premis": 14,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -3438,9 +3438,9 @@
    "median": 12.0,
    "min": 7.0,
    "max": 16.9,
-   "bil": 131,
+   "bil": 130,
    "premis": 19,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -3448,9 +3448,9 @@
    "median": 12.0,
    "min": 7.99,
    "max": 16.0,
-   "bil": 105,
+   "bil": 104,
    "premis": 11,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -3460,7 +3460,7 @@
    "max": 18.0,
    "bil": 31,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -3470,7 +3470,7 @@
    "max": 16.0,
    "bil": 28,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   }
  ],
  "bandar": [
@@ -3791,7 +3791,7 @@
    "max": 12.0,
    "bil": 21,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -3802,7 +3802,7 @@
    "max": 13.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -3813,7 +3813,7 @@
    "max": 13.0,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -3824,7 +3824,7 @@
    "max": 9.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -3833,9 +3833,9 @@
    "median": 7.99,
    "min": 7.99,
    "max": 8.99,
-   "bil": 10,
+   "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -3844,9 +3844,9 @@
    "median": 9.0,
    "min": 7.0,
    "max": 12.0,
-   "bil": 51,
+   "bil": 49,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -3855,9 +3855,9 @@
    "median": 10.29,
    "min": 9.0,
    "max": 12.0,
-   "bil": 17,
+   "bil": 16,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -3868,18 +3868,18 @@
    "max": 10.0,
    "bil": 8,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
    "daerah": "Hulu Perak",
    "bandar": "PENGKALAN HULU",
-   "median": 10.0,
+   "median": 11.0,
    "min": 10.0,
    "max": 12.0,
-   "bil": 5,
+   "bil": 6,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -3890,7 +3890,7 @@
    "max": 8.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -3901,7 +3901,7 @@
    "max": 8.9,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -3912,18 +3912,18 @@
    "max": 12.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
    "daerah": "Kerian",
    "bandar": "PARIT BUNTAR",
-   "median": 8.59,
+   "median": 7.99,
    "min": 7.99,
-   "max": 10.0,
+   "max": 12.0,
    "bil": 33,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -3931,10 +3931,10 @@
    "bandar": "BATU GAJAH",
    "median": 12.0,
    "min": 12.0,
-   "max": 13.0,
+   "max": 12.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -3945,7 +3945,7 @@
    "max": 12.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -3954,9 +3954,9 @@
    "median": 10.0,
    "min": 6.99,
    "max": 16.0,
-   "bil": 81,
+   "bil": 82,
    "premis": 8,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -3967,7 +3967,7 @@
    "max": 7.89,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -3989,18 +3989,18 @@
    "max": 12.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
    "daerah": "Kuala Kangsar",
    "bandar": "KUALA KANGSAR",
-   "median": 11.4,
-   "min": 6.9,
+   "median": 11.9,
+   "min": 7.9,
    "max": 13.9,
-   "bil": 22,
+   "bil": 21,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -4009,20 +4009,9 @@
    "median": 11.0,
    "min": 11.0,
    "max": 11.0,
-   "bil": 4,
+   "bil": 3,
    "premis": 1,
    "tarikh_terkini": "2026-11-15"
-  },
-  {
-   "kod": 47,
-   "daerah": "Kuala Kangsar",
-   "bandar": "PADANG RENGAS",
-   "median": 10.0,
-   "min": 10.0,
-   "max": 10.0,
-   "bil": 1,
-   "premis": 1,
-   "tarikh_terkini": "2026-11-03"
   },
   {
    "kod": 47,
@@ -4033,18 +4022,18 @@
    "max": 12.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
    "daerah": "Kuala Kangsar",
    "bandar": "SUNGAI SIPUT (U)",
-   "median": 11.99,
+   "median": 10.9,
    "min": 10.9,
    "max": 11.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -4066,7 +4055,7 @@
    "max": 13.0,
    "bil": 33,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -4088,7 +4077,7 @@
    "max": 10.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -4097,9 +4086,9 @@
    "median": 10.0,
    "min": 7.0,
    "max": 11.9,
-   "bil": 28,
+   "bil": 27,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -4110,7 +4099,7 @@
    "max": 12.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -4121,7 +4110,7 @@
    "max": 10.99,
    "bil": 30,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
@@ -4132,40 +4121,40 @@
    "max": 9.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
    "daerah": "Manjung",
    "bandar": "SITIAWAN",
-   "median": 10.0,
+   "median": 10.5,
    "min": 8.0,
    "max": 12.0,
    "bil": 22,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
    "daerah": "Muallim",
    "bandar": "SLIM RIVER",
-   "median": 12.0,
+   "median": 11.29,
    "min": 7.99,
    "max": 14.0,
-   "bil": 21,
+   "bil": 22,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 47,
    "daerah": "Perak Tengah",
    "bandar": "PARIT",
    "median": 12.0,
-   "min": 10.0,
+   "min": 8.0,
    "max": 14.0,
-   "bil": 10,
+   "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 52,
@@ -4315,20 +4304,20 @@
    "daerah": "Bagan Datuk",
    "bandar": "HUTAN MELINTANG",
    "median": 14.0,
-   "min": 9.0,
+   "min": 12.0,
    "max": 16.0,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
    "daerah": "Hilir Perak",
    "bandar": "LANGKAP",
-   "median": 8.59,
+   "median": 8.29,
    "min": 7.59,
    "max": 11.99,
-   "bil": 7,
+   "bil": 6,
    "premis": 1,
    "tarikh_terkini": "2026-11-16"
   },
@@ -4339,42 +4328,42 @@
    "median": 12.0,
    "min": 10.0,
    "max": 14.0,
-   "bil": 20,
+   "bil": 21,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
    "daerah": "Hulu Perak",
    "bandar": "GERIK",
-   "median": 16.0,
-   "min": 14.0,
+   "median": 15.0,
+   "min": 12.0,
    "max": 18.0,
-   "bil": 3,
+   "bil": 4,
    "premis": 1,
-   "tarikh_terkini": "2026-11-14"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
    "daerah": "Hulu Perak",
    "bandar": "LENGGONG",
    "median": 12.0,
-   "min": 12.0,
+   "min": 10.0,
    "max": 12.0,
-   "bil": 2,
+   "bil": 3,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
    "daerah": "Hulu Perak",
    "bandar": "PENGKALAN HULU",
-   "median": 13.0,
-   "min": 10.0,
+   "median": 14.0,
+   "min": 12.0,
    "max": 15.0,
    "bil": 6,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
@@ -4383,9 +4372,9 @@
    "median": 10.99,
    "min": 10.99,
    "max": 10.99,
-   "bil": 10,
+   "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
@@ -4394,7 +4383,7 @@
    "median": 8.0,
    "min": 7.0,
    "max": 10.0,
-   "bil": 8,
+   "bil": 7,
    "premis": 1,
    "tarikh_terkini": "2026-11-15"
   },
@@ -4407,7 +4396,7 @@
    "max": 13.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
@@ -4429,7 +4418,7 @@
    "max": 10.0,
    "bil": 5,
    "premis": 1,
-   "tarikh_terkini": "2026-11-13"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
@@ -4437,10 +4426,10 @@
    "bandar": "IPOH",
    "median": 10.0,
    "min": 7.0,
-   "max": 13.0,
-   "bil": 5,
-   "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "max": 14.99,
+   "bil": 7,
+   "premis": 3,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
@@ -4449,7 +4438,7 @@
    "median": 10.0,
    "min": 8.0,
    "max": 12.0,
-   "bil": 4,
+   "bil": 3,
    "premis": 1,
    "tarikh_terkini": "2026-11-07"
   },
@@ -4457,12 +4446,12 @@
    "kod": 55,
    "daerah": "Kuala Kangsar",
    "bandar": "KUALA KANGSAR",
-   "median": 12.45,
+   "median": 12.0,
    "min": 7.9,
    "max": 16.9,
-   "bil": 16,
+   "bil": 15,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
@@ -4471,20 +4460,20 @@
    "median": 18.0,
    "min": 16.0,
    "max": 19.0,
-   "bil": 3,
+   "bil": 4,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
    "daerah": "Kuala Kangsar",
    "bandar": "PADANG RENGAS",
    "median": 10.0,
-   "min": 8.0,
+   "min": 7.0,
    "max": 13.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
@@ -4493,9 +4482,9 @@
    "median": 16.0,
    "min": 15.0,
    "max": 17.0,
-   "bil": 4,
+   "bil": 5,
    "premis": 1,
-   "tarikh_terkini": "2026-11-11"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
@@ -4517,18 +4506,18 @@
    "max": 17.59,
    "bil": 21,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
    "daerah": "Larut, Matang & Selama",
    "bandar": "MATANG",
-   "median": 11.0,
+   "median": 11.5,
    "min": 8.0,
    "max": 14.0,
    "bil": 6,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
@@ -4536,30 +4525,30 @@
    "bandar": "SIMPANG",
    "median": 10.0,
    "min": 10.0,
-   "max": 10.0,
+   "max": 13.0,
    "bil": 3,
    "premis": 1,
-   "tarikh_terkini": "2026-11-05"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
    "daerah": "Larut, Matang & Selama",
    "bandar": "TAIPING",
    "median": 15.5,
-   "min": 8.0,
+   "min": 10.0,
    "max": 19.9,
    "bil": 24,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 55,
    "daerah": "Manjung",
    "bandar": "SERI MANJUNG",
-   "median": 13.5,
+   "median": 15.0,
    "min": 10.0,
    "max": 17.9,
-   "bil": 10,
+   "bil": 9,
    "premis": 2,
    "tarikh_terkini": "2026-11-16"
   },
@@ -4572,7 +4561,7 @@
    "max": 13.0,
    "bil": 9,
    "premis": 2,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 64,
@@ -4737,7 +4726,7 @@
    "max": 11.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 69,
@@ -4746,9 +4735,9 @@
    "median": 5.99,
    "min": 5.99,
    "max": 5.99,
-   "bil": 4,
+   "bil": 5,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 69,
@@ -4757,7 +4746,7 @@
    "median": 10.99,
    "min": 8.99,
    "max": 10.99,
-   "bil": 7,
+   "bil": 6,
    "premis": 1,
    "tarikh_terkini": "2026-11-12"
   },
@@ -4768,7 +4757,7 @@
    "median": 10.0,
    "min": 6.0,
    "max": 10.0,
-   "bil": 6,
+   "bil": 5,
    "premis": 1,
    "tarikh_terkini": "2026-11-11"
   },
@@ -4779,7 +4768,7 @@
    "median": 10.59,
    "min": 8.99,
    "max": 13.9,
-   "bil": 11,
+   "bil": 10,
    "premis": 3,
    "tarikh_terkini": "2026-11-13"
   },
@@ -4801,9 +4790,9 @@
    "median": 11.99,
    "min": 4.99,
    "max": 14.0,
-   "bil": 33,
+   "bil": 35,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 69,
@@ -4814,7 +4803,7 @@
    "max": 9.99,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-14"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 69,
@@ -4834,9 +4823,9 @@
    "median": 10.9,
    "min": 8.0,
    "max": 10.9,
-   "bil": 5,
+   "bil": 6,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 69,
@@ -4845,9 +4834,9 @@
    "median": 11.99,
    "min": 7.99,
    "max": 18.0,
-   "bil": 8,
+   "bil": 9,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 69,
@@ -4878,7 +4867,7 @@
    "median": 10.0,
    "min": 10.0,
    "max": 16.0,
-   "bil": 4,
+   "bil": 3,
    "premis": 1,
    "tarikh_terkini": "2026-11-07"
   },
@@ -4897,12 +4886,12 @@
    "kod": 69,
    "daerah": "Manjung",
    "bandar": "SITIAWAN",
-   "median": 8.0,
+   "median": 9.0,
    "min": 8.0,
-   "max": 8.0,
-   "bil": 1,
+   "max": 10.0,
+   "bil": 2,
    "premis": 1,
-   "tarikh_terkini": "2026-11-10"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 69,
@@ -4920,11 +4909,11 @@
    "daerah": "Bagan Datuk",
    "bandar": "HUTAN MELINTANG",
    "median": 15.0,
-   "min": 10.0,
+   "min": 10.99,
    "max": 16.0,
    "bil": 17,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -4935,7 +4924,7 @@
    "max": 24.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -4944,9 +4933,9 @@
    "median": 18.0,
    "min": 15.0,
    "max": 22.0,
-   "bil": 5,
+   "bil": 6,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -4957,62 +4946,62 @@
    "max": 16.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
    "daerah": "Hilir Perak",
    "bandar": "LANGKAP",
    "median": 10.99,
-   "min": 10.99,
+   "min": 9.99,
    "max": 12.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
    "daerah": "Hilir Perak",
    "bandar": "TELUK INTAN",
-   "median": 16.0,
+   "median": 15.0,
    "min": 10.0,
    "max": 20.0,
-   "bil": 35,
+   "bil": 36,
    "premis": 4,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
    "daerah": "Hulu Perak",
    "bandar": "GERIK",
-   "median": 17.5,
+   "median": 17.0,
    "min": 15.0,
-   "max": 20.0,
+   "max": 19.99,
    "bil": 20,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
    "daerah": "Hulu Perak",
    "bandar": "LENGGONG",
-   "median": 16.5,
+   "median": 16.0,
    "min": 14.0,
-   "max": 18.0,
+   "max": 17.0,
    "bil": 8,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
    "daerah": "Hulu Perak",
    "bandar": "PENGKALAN HULU",
-   "median": 16.5,
+   "median": 16.0,
    "min": 16.0,
-   "max": 19.0,
+   "max": 17.0,
    "bil": 6,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -5023,7 +5012,7 @@
    "max": 13.59,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -5034,7 +5023,7 @@
    "max": 15.9,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -5045,7 +5034,7 @@
    "max": 18.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -5054,20 +5043,20 @@
    "median": 16.0,
    "min": 10.59,
    "max": 18.9,
-   "bil": 28,
+   "bil": 29,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
    "daerah": "Kinta",
    "bandar": "BATU GAJAH",
-   "median": 20.0,
+   "median": 19.0,
    "min": 18.0,
-   "max": 27.0,
+   "max": 24.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -5078,18 +5067,18 @@
    "max": 22.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
    "daerah": "Kinta",
    "bandar": "IPOH",
-   "median": 16.99,
-   "min": 10.99,
+   "median": 17.0,
+   "min": 9.99,
    "max": 29.9,
-   "bil": 83,
+   "bil": 85,
    "premis": 8,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -5117,34 +5106,34 @@
    "kod": 70,
    "daerah": "Kinta",
    "bandar": "TANJUNG RAMBUTAN",
-   "median": 18.0,
+   "median": 17.0,
    "min": 16.0,
    "max": 20.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
    "daerah": "Kuala Kangsar",
    "bandar": "KUALA KANGSAR",
-   "median": 17.0,
+   "median": 18.0,
    "min": 14.0,
    "max": 20.0,
-   "bil": 18,
+   "bil": 19,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
    "daerah": "Kuala Kangsar",
    "bandar": "MANONG",
-   "median": 19.0,
+   "median": 19.5,
    "min": 19.0,
    "max": 21.0,
-   "bil": 5,
+   "bil": 6,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -5153,7 +5142,7 @@
    "median": 14.0,
    "min": 12.0,
    "max": 14.0,
-   "bil": 9,
+   "bil": 8,
    "premis": 1,
    "tarikh_terkini": "2026-11-14"
   },
@@ -5166,7 +5155,7 @@
    "max": 22.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -5175,9 +5164,9 @@
    "median": 19.9,
    "min": 13.99,
    "max": 19.99,
-   "bil": 9,
+   "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -5194,12 +5183,12 @@
    "kod": 70,
    "daerah": "Larut, Matang & Selama",
    "bandar": "KAMUNTING",
-   "median": 14.59,
+   "median": 15.79,
    "min": 10.59,
    "max": 22.0,
-   "bil": 31,
+   "bil": 32,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -5208,9 +5197,9 @@
    "median": 12.0,
    "min": 12.0,
    "max": 15.0,
-   "bil": 5,
+   "bil": 6,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -5221,29 +5210,29 @@
    "max": 18.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
    "daerah": "Larut, Matang & Selama",
    "bandar": "TAIPING",
-   "median": 15.0,
+   "median": 14.5,
    "min": 10.0,
    "max": 29.9,
-   "bil": 29,
+   "bil": 28,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
    "daerah": "Manjung",
    "bandar": "AYER TAWAR",
-   "median": 17.0,
-   "min": 15.0,
+   "median": 18.0,
+   "min": 17.0,
    "max": 20.0,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -5252,20 +5241,20 @@
    "median": 18.99,
    "min": 15.99,
    "max": 25.9,
-   "bil": 27,
+   "bil": 26,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
    "daerah": "Manjung",
    "bandar": "SETIAWAN",
-   "median": 12.49,
+   "median": 11.99,
    "min": 7.99,
    "max": 12.99,
-   "bil": 4,
+   "bil": 5,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -5274,9 +5263,9 @@
    "median": 16.0,
    "min": 12.0,
    "max": 22.0,
-   "bil": 16,
+   "bil": 17,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -5287,7 +5276,7 @@
    "max": 26.0,
    "bil": 22,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
@@ -5298,7 +5287,7 @@
    "max": 20.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5309,7 +5298,7 @@
    "max": 10.0,
    "bil": 21,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5320,7 +5309,7 @@
    "max": 9.5,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5331,7 +5320,7 @@
    "max": 9.0,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5342,7 +5331,7 @@
    "max": 9.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5353,7 +5342,7 @@
    "max": 11.59,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5364,7 +5353,7 @@
    "max": 10.99,
    "bil": 54,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5372,10 +5361,10 @@
    "bandar": "GERIK",
    "median": 9.0,
    "min": 8.99,
-   "max": 10.99,
+   "max": 9.99,
    "bil": 21,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5386,16 +5375,16 @@
    "max": 10.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
    "daerah": "Hulu Perak",
    "bandar": "PENGKALAN HULU",
-   "median": 11.0,
+   "median": 10.0,
    "min": 10.0,
-   "max": 12.0,
-   "bil": 2,
+   "max": 10.0,
+   "bil": 1,
    "premis": 1,
    "tarikh_terkini": "2026-11-15"
   },
@@ -5406,7 +5395,7 @@
    "median": 10.99,
    "min": 10.99,
    "max": 10.99,
-   "bil": 10,
+   "bil": 9,
    "premis": 1,
    "tarikh_terkini": "2026-11-16"
   },
@@ -5419,7 +5408,7 @@
    "max": 11.9,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5430,7 +5419,7 @@
    "max": 9.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5441,18 +5430,18 @@
    "max": 10.99,
    "bil": 33,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
    "daerah": "Kinta",
    "bandar": "BATU GAJAH",
-   "median": 9.0,
+   "median": 10.0,
    "min": 9.0,
    "max": 11.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5463,7 +5452,7 @@
    "max": 9.5,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5474,7 +5463,7 @@
    "max": 12.9,
    "bil": 70,
    "premis": 7,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5483,7 +5472,7 @@
    "median": 8.49,
    "min": 8.49,
    "max": 8.49,
-   "bil": 5,
+   "bil": 4,
    "premis": 1,
    "tarikh_terkini": "2026-11-14"
   },
@@ -5507,7 +5496,7 @@
    "max": 10.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5518,7 +5507,7 @@
    "max": 9.9,
    "bil": 22,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5529,7 +5518,7 @@
    "max": 13.0,
    "bil": 6,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5540,7 +5529,7 @@
    "max": 9.0,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5549,7 +5538,7 @@
    "median": 10.0,
    "min": 10.0,
    "max": 10.0,
-   "bil": 10,
+   "bil": 9,
    "premis": 1,
    "tarikh_terkini": "2026-11-15"
   },
@@ -5562,7 +5551,7 @@
    "max": 10.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5573,7 +5562,7 @@
    "max": 10.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5584,7 +5573,7 @@
    "max": 11.59,
    "bil": 32,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5595,7 +5584,7 @@
    "max": 10.0,
    "bil": 21,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5606,7 +5595,7 @@
    "max": 7.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5615,9 +5604,9 @@
    "median": 9.99,
    "min": 9.99,
    "max": 10.99,
-   "bil": 18,
+   "bil": 19,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5628,7 +5617,7 @@
    "max": 11.99,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5639,7 +5628,7 @@
    "max": 11.0,
    "bil": 21,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5650,7 +5639,7 @@
    "max": 12.0,
    "bil": 21,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
@@ -5661,7 +5650,7 @@
    "max": 10.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 350,
@@ -6033,9 +6022,9 @@
    "median": 35.0,
    "min": 27.99,
    "max": 38.0,
-   "bil": 20,
+   "bil": 19,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
@@ -6046,7 +6035,7 @@
    "max": 38.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
@@ -6068,29 +6057,29 @@
    "max": 24.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
    "daerah": "Hilir Perak",
    "bandar": "LANGKAP",
    "median": 34.59,
-   "min": 34.59,
+   "min": 32.99,
    "max": 34.59,
-   "bil": 5,
+   "bil": 6,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
    "daerah": "Hilir Perak",
    "bandar": "TELUK INTAN",
-   "median": 34.0,
+   "median": 35.0,
    "min": 22.99,
    "max": 44.99,
-   "bil": 43,
+   "bil": 44,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
@@ -6098,19 +6087,19 @@
    "bandar": "GERIK",
    "median": 34.0,
    "min": 24.0,
-   "max": 39.99,
+   "max": 44.99,
    "bil": 21,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
    "daerah": "Hulu Perak",
    "bandar": "LENGGONG",
    "median": 30.0,
-   "min": 22.0,
+   "min": 30.0,
    "max": 34.0,
-   "bil": 8,
+   "bil": 7,
    "premis": 1,
    "tarikh_terkini": "2026-11-14"
   },
@@ -6123,18 +6112,18 @@
    "max": 36.0,
    "bil": 8,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
    "daerah": "Kerian",
    "bandar": "BAGAN SERAI",
-   "median": 28.99,
+   "median": 32.99,
    "min": 24.99,
    "max": 32.99,
-   "bil": 4,
+   "bil": 5,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
@@ -6145,7 +6134,7 @@
    "max": 41.9,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
@@ -6153,8 +6142,8 @@
    "bandar": "KUALA KURAU",
    "median": 26.0,
    "min": 26.0,
-   "max": 30.0,
-   "bil": 9,
+   "max": 28.0,
+   "bil": 8,
    "premis": 1,
    "tarikh_terkini": "2026-11-15"
   },
@@ -6167,7 +6156,7 @@
    "max": 34.9,
    "bil": 20,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
@@ -6178,7 +6167,7 @@
    "max": 38.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
@@ -6189,18 +6178,18 @@
    "max": 34.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
    "daerah": "Kinta",
    "bandar": "IPOH",
-   "median": 35.0,
+   "median": 35.5,
    "min": 25.0,
    "max": 49.8,
-   "bil": 79,
+   "bil": 80,
    "premis": 8,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
@@ -6228,12 +6217,12 @@
    "kod": 845,
    "daerah": "Kinta",
    "bandar": "TANJUNG RAMBUTAN",
-   "median": 33.5,
+   "median": 32.5,
    "min": 26.0,
    "max": 36.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
@@ -6242,7 +6231,7 @@
    "median": 36.0,
    "min": 30.0,
    "max": 40.0,
-   "bil": 12,
+   "bil": 10,
    "premis": 2,
    "tarikh_terkini": "2026-11-15"
   },
@@ -6250,10 +6239,10 @@
    "kod": 845,
    "daerah": "Kuala Kangsar",
    "bandar": "MANONG",
-   "median": 34.0,
+   "median": 35.0,
    "min": 32.0,
    "max": 38.0,
-   "bil": 4,
+   "bil": 3,
    "premis": 1,
    "tarikh_terkini": "2026-11-12"
   },
@@ -6266,18 +6255,18 @@
    "max": 40.0,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
    "daerah": "Kuala Kangsar",
    "bandar": "SUNGAI SIPUT (U)",
-   "median": 44.99,
+   "median": 44.9,
    "min": 44.9,
    "max": 44.99,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
@@ -6294,23 +6283,23 @@
    "kod": 845,
    "daerah": "Larut, Matang & Selama",
    "bandar": "KAMUNTING",
-   "median": 33.5,
+   "median": 34.0,
    "min": 24.99,
    "max": 38.99,
    "bil": 30,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
    "daerah": "Larut, Matang & Selama",
    "bandar": "MATANG",
-   "median": 24.0,
+   "median": 23.0,
    "min": 18.0,
    "max": 26.0,
    "bil": 8,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
@@ -6321,7 +6310,7 @@
    "max": 33.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
@@ -6332,18 +6321,18 @@
    "max": 49.9,
    "bil": 31,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
    "daerah": "Manjung",
    "bandar": "AYER TAWAR",
    "median": 33.0,
-   "min": 26.0,
+   "min": 28.0,
    "max": 38.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
@@ -6352,9 +6341,9 @@
    "median": 38.0,
    "min": 26.0,
    "max": 49.99,
-   "bil": 13,
+   "bil": 15,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
@@ -6372,22 +6361,22 @@
    "daerah": "Manjung",
    "bandar": "SITIAWAN",
    "median": 36.0,
-   "min": 34.0,
+   "min": 32.0,
    "max": 38.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
    "daerah": "Muallim",
    "bandar": "SLIM RIVER",
-   "median": 34.0,
+   "median": 36.0,
    "min": 31.99,
    "max": 38.0,
    "bil": 15,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 845,
@@ -6395,32 +6384,32 @@
    "bandar": "PARIT",
    "median": 32.0,
    "min": 28.0,
-   "max": 34.0,
+   "max": 35.0,
    "bil": 4,
    "premis": 1,
-   "tarikh_terkini": "2026-11-14"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
    "daerah": "Bagan Datuk",
    "bandar": "HUTAN MELINTANG",
-   "median": 30.0,
+   "median": 31.0,
    "min": 28.99,
    "max": 32.0,
-   "bil": 3,
+   "bil": 4,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
    "daerah": "Batang Padang",
    "bandar": "SUNGKAI",
-   "median": 30.0,
+   "median": 33.0,
    "min": 30.0,
    "max": 38.0,
-   "bil": 3,
+   "bil": 4,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
@@ -6431,7 +6420,7 @@
    "max": 33.99,
    "bil": 7,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
@@ -6440,9 +6429,9 @@
    "median": 35.0,
    "min": 25.0,
    "max": 42.0,
-   "bil": 20,
+   "bil": 21,
    "premis": 4,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
@@ -6451,20 +6440,9 @@
    "median": 37.99,
    "min": 32.99,
    "max": 49.0,
-   "bil": 9,
+   "bil": 8,
    "premis": 2,
-   "tarikh_terkini": "2026-11-12"
-  },
-  {
-   "kod": 847,
-   "daerah": "Hulu Perak",
-   "bandar": "LENGGONG",
-   "median": 24.0,
-   "min": 24.0,
-   "max": 24.0,
-   "bil": 1,
-   "premis": 1,
-   "tarikh_terkini": "2026-11-03"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
@@ -6484,20 +6462,9 @@
    "median": 33.99,
    "min": 33.99,
    "max": 33.99,
-   "bil": 5,
+   "bil": 6,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
-  },
-  {
-   "kod": 847,
-   "daerah": "Kerian",
-   "bandar": "KUALA KURAU",
-   "median": 36.0,
-   "min": 36.0,
-   "max": 36.0,
-   "bil": 1,
-   "premis": 1,
-   "tarikh_terkini": "2026-11-03"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
@@ -6506,9 +6473,9 @@
    "median": 33.99,
    "min": 29.9,
    "max": 45.0,
-   "bil": 13,
+   "bil": 12,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
@@ -6519,7 +6486,7 @@
    "max": 45.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
@@ -6527,10 +6494,10 @@
    "bandar": "GOPENG",
    "median": 34.0,
    "min": 28.0,
-   "max": 45.0,
+   "max": 40.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
@@ -6541,16 +6508,16 @@
    "max": 59.9,
    "bil": 65,
    "premis": 8,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
    "daerah": "Kinta",
    "bandar": "PENGKALAN",
    "median": 34.99,
-   "min": 32.99,
+   "min": 34.99,
    "max": 35.99,
-   "bil": 4,
+   "bil": 3,
    "premis": 1,
    "tarikh_terkini": "2026-11-11"
   },
@@ -6569,12 +6536,12 @@
    "kod": 847,
    "daerah": "Kinta",
    "bandar": "TANJUNG RAMBUTAN",
-   "median": 34.0,
+   "median": 33.5,
    "min": 33.0,
    "max": 45.0,
-   "bil": 9,
+   "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
@@ -6591,10 +6558,10 @@
    "kod": 847,
    "daerah": "Kuala Kangsar",
    "bandar": "SUNGAI SIPUT",
-   "median": 39.0,
-   "min": 38.0,
+   "median": 40.0,
+   "min": 40.0,
    "max": 40.0,
-   "bil": 2,
+   "bil": 1,
    "premis": 1,
    "tarikh_terkini": "2026-11-10"
   },
@@ -6605,9 +6572,9 @@
    "median": 37.9,
    "min": 35.99,
    "max": 37.9,
-   "bil": 8,
+   "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
@@ -6616,9 +6583,9 @@
    "median": 34.99,
    "min": 29.9,
    "max": 44.0,
-   "bil": 25,
+   "bil": 26,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
@@ -6627,20 +6594,20 @@
    "median": 32.0,
    "min": 30.0,
    "max": 32.0,
-   "bil": 7,
+   "bil": 8,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
    "daerah": "Larut, Matang & Selama",
    "bandar": "TAIPING",
-   "median": 43.0,
+   "median": 51.45,
    "min": 34.0,
    "max": 59.9,
-   "bil": 23,
+   "bil": 22,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
@@ -6660,7 +6627,7 @@
    "median": 38.0,
    "min": 30.0,
    "max": 39.99,
-   "bil": 12,
+   "bil": 11,
    "premis": 2,
    "tarikh_terkini": "2026-11-16"
   },
@@ -6673,7 +6640,7 @@
    "max": 29.99,
    "bil": 4,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
@@ -6682,9 +6649,9 @@
    "median": 36.0,
    "min": 30.0,
    "max": 45.0,
-   "bil": 11,
+   "bil": 12,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
@@ -6695,7 +6662,7 @@
    "max": 48.0,
    "bil": 17,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
@@ -7432,18 +7399,18 @@
    "max": 16.0,
    "bil": 15,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
    "daerah": "Batang Padang",
    "bandar": "BIDOR",
-   "median": 17.0,
-   "min": 12.0,
+   "median": 18.0,
+   "min": 16.0,
    "max": 20.0,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7452,9 +7419,9 @@
    "median": 16.0,
    "min": 14.0,
    "max": 17.0,
-   "bil": 10,
+   "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7462,10 +7429,10 @@
    "bandar": "TAPAH",
    "median": 13.99,
    "min": 13.99,
-   "max": 15.99,
+   "max": 14.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7476,7 +7443,7 @@
    "max": 13.99,
    "bil": 7,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7487,18 +7454,18 @@
    "max": 17.99,
    "bil": 47,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
    "daerah": "Hulu Perak",
    "bandar": "GERIK",
-   "median": 17.0,
+   "median": 16.99,
    "min": 13.0,
    "max": 18.0,
-   "bil": 20,
+   "bil": 19,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7515,12 +7482,12 @@
    "kod": 1436,
    "daerah": "Hulu Perak",
    "bandar": "PENGKALAN HULU",
-   "median": 16.5,
+   "median": 16.0,
    "min": 15.0,
    "max": 18.0,
    "bil": 8,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7529,9 +7496,9 @@
    "median": 13.59,
    "min": 13.59,
    "max": 13.59,
-   "bil": 7,
+   "bil": 8,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7542,7 +7509,7 @@
    "max": 13.9,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7553,7 +7520,7 @@
    "max": 18.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7564,7 +7531,7 @@
    "max": 18.0,
    "bil": 31,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7572,32 +7539,32 @@
    "bandar": "BATU GAJAH",
    "median": 18.0,
    "min": 14.0,
-   "max": 22.0,
+   "max": 20.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
    "daerah": "Kinta",
    "bandar": "GOPENG",
-   "median": 17.0,
+   "median": 18.0,
    "min": 13.5,
    "max": 18.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
    "daerah": "Kinta",
    "bandar": "IPOH",
    "median": 14.99,
-   "min": 10.99,
-   "max": 27.0,
+   "min": 9.99,
+   "max": 25.0,
    "bil": 85,
    "premis": 8,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7628,20 +7595,20 @@
    "median": 16.0,
    "min": 16.0,
    "max": 20.0,
-   "bil": 9,
+   "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
    "daerah": "Kuala Kangsar",
    "bandar": "KUALA KANGSAR",
-   "median": 16.0,
+   "median": 15.5,
    "min": 8.0,
    "max": 22.9,
-   "bil": 19,
+   "bil": 20,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7663,7 +7630,7 @@
    "max": 15.0,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7674,18 +7641,18 @@
    "max": 22.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
    "daerah": "Kuala Kangsar",
    "bandar": "SUNGAI SIPUT (U)",
-   "median": 17.95,
+   "median": 17.9,
    "min": 17.9,
    "max": 17.99,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7707,18 +7674,18 @@
    "max": 18.0,
    "bil": 29,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
    "daerah": "Larut, Matang & Selama",
    "bandar": "MATANG",
    "median": 14.0,
-   "min": 10.0,
+   "min": 13.0,
    "max": 15.0,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7729,7 +7696,7 @@
    "max": 18.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7738,20 +7705,20 @@
    "median": 14.0,
    "min": 10.0,
    "max": 22.9,
-   "bil": 27,
+   "bil": 28,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
    "daerah": "Manjung",
    "bandar": "AYER TAWAR",
    "median": 15.0,
-   "min": 13.0,
+   "min": 11.0,
    "max": 16.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7762,7 +7729,7 @@
    "max": 18.0,
    "bil": 30,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7771,9 +7738,9 @@
    "median": 11.99,
    "min": 8.99,
    "max": 19.99,
-   "bil": 9,
+   "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7784,7 +7751,7 @@
    "max": 18.0,
    "bil": 22,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7795,7 +7762,7 @@
    "max": 20.0,
    "bil": 15,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1436,
@@ -7806,7 +7773,7 @@
    "max": 17.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1437,
@@ -8367,7 +8334,7 @@
    "max": 45.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1475,
@@ -8385,11 +8352,11 @@
    "daerah": "Kinta",
    "bandar": "IPOH",
    "median": 45.0,
-   "min": 34.0,
+   "min": 36.99,
    "max": 69.9,
-   "bil": 31,
+   "bil": 29,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1475,
@@ -8406,12 +8373,12 @@
    "kod": 1475,
    "daerah": "Larut, Matang & Selama",
    "bandar": "SIMPANG",
-   "median": 45.0,
+   "median": 40.0,
    "min": 40.0,
    "max": 50.0,
-   "bil": 2,
+   "bil": 3,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1475,
@@ -8444,18 +8411,18 @@
    "max": 18.0,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
    "daerah": "Batang Padang",
    "bandar": "SUNGKAI",
-   "median": 17.0,
+   "median": 16.0,
    "min": 15.0,
    "max": 17.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
@@ -8473,9 +8440,9 @@
    "daerah": "Hulu Perak",
    "bandar": "GERIK",
    "median": 17.0,
-   "min": 16.0,
+   "min": 17.0,
    "max": 20.0,
-   "bil": 6,
+   "bil": 5,
    "premis": 1,
    "tarikh_terkini": "2026-11-16"
   },
@@ -8486,7 +8453,7 @@
    "median": 17.0,
    "min": 16.0,
    "max": 17.0,
-   "bil": 9,
+   "bil": 8,
    "premis": 1,
    "tarikh_terkini": "2026-11-16"
   },
@@ -8494,12 +8461,12 @@
    "kod": 1476,
    "daerah": "Hulu Perak",
    "bandar": "PENGKALAN HULU",
-   "median": 17.5,
-   "min": 16.0,
+   "median": 17.0,
+   "min": 15.0,
    "max": 18.0,
-   "bil": 4,
+   "bil": 5,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
@@ -8508,9 +8475,9 @@
    "median": 14.59,
    "min": 14.59,
    "max": 15.59,
-   "bil": 6,
+   "bil": 7,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
@@ -8521,7 +8488,7 @@
    "max": 15.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
@@ -8532,7 +8499,7 @@
    "max": 16.0,
    "bil": 31,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
@@ -8543,7 +8510,7 @@
    "max": 18.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
@@ -8554,7 +8521,7 @@
    "max": 16.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
@@ -8562,10 +8529,10 @@
    "bandar": "IPOH",
    "median": 14.99,
    "min": 9.99,
-   "max": 22.9,
+   "max": 21.9,
    "bil": 54,
    "premis": 7,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
@@ -8583,11 +8550,11 @@
    "daerah": "Kinta",
    "bandar": "TANJUNG RAMBUTAN",
    "median": 16.0,
-   "min": 15.0,
+   "min": 16.0,
    "max": 18.0,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
@@ -8615,12 +8582,12 @@
    "kod": 1476,
    "daerah": "Kuala Kangsar",
    "bandar": "SUNGAI SIPUT",
-   "median": 16.5,
+   "median": 17.0,
    "min": 16.0,
    "max": 18.0,
    "bil": 4,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
@@ -8647,33 +8614,22 @@
   {
    "kod": 1476,
    "daerah": "Larut, Matang & Selama",
-   "bandar": "SIMPANG",
-   "median": 16.0,
-   "min": 16.0,
-   "max": 16.0,
-   "bil": 1,
-   "premis": 1,
-   "tarikh_terkini": "2026-11-03"
-  },
-  {
-   "kod": 1476,
-   "daerah": "Larut, Matang & Selama",
    "bandar": "TAIPING",
    "median": 13.0,
    "min": 13.0,
    "max": 13.0,
-   "bil": 2,
-   "premis": 2,
+   "bil": 1,
+   "premis": 1,
    "tarikh_terkini": "2026-11-15"
   },
   {
    "kod": 1476,
    "daerah": "Manjung",
    "bandar": "AYER TAWAR",
-   "median": 14.0,
+   "median": 13.5,
    "min": 10.0,
    "max": 16.0,
-   "bil": 9,
+   "bil": 8,
    "premis": 1,
    "tarikh_terkini": "2026-11-16"
   },
@@ -8684,9 +8640,9 @@
    "median": 17.9,
    "min": 13.0,
    "max": 18.0,
-   "bil": 20,
+   "bil": 21,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
@@ -8697,18 +8653,18 @@
    "max": 9.99,
    "bil": 5,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
    "daerah": "Manjung",
    "bandar": "SITIAWAN",
-   "median": 15.0,
-   "min": 10.0,
+   "median": 14.0,
+   "min": 13.0,
    "max": 18.0,
    "bil": 15,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
@@ -8719,7 +8675,7 @@
    "max": 18.0,
    "bil": 16,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
@@ -8728,7 +8684,7 @@
    "median": 16.0,
    "min": 15.0,
    "max": 18.0,
-   "bil": 8,
+   "bil": 7,
    "premis": 1,
    "tarikh_terkini": "2026-11-14"
   },
@@ -8736,12 +8692,12 @@
    "kod": 1477,
    "daerah": "Bagan Datuk",
    "bandar": "HUTAN MELINTANG",
-   "median": 17.0,
+   "median": 16.5,
    "min": 13.99,
    "max": 19.9,
    "bil": 14,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -8750,20 +8706,20 @@
    "median": 20.0,
    "min": 20.0,
    "max": 24.0,
-   "bil": 10,
+   "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
    "daerah": "Batang Padang",
    "bandar": "SUNGKAI",
-   "median": 18.0,
+   "median": 19.0,
    "min": 15.0,
    "max": 22.0,
-   "bil": 9,
+   "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -8771,10 +8727,10 @@
    "bandar": "TAPAH",
    "median": 17.99,
    "min": 15.99,
-   "max": 19.99,
+   "max": 17.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -8782,10 +8738,10 @@
    "bandar": "LANGKAP",
    "median": 14.59,
    "min": 12.99,
-   "max": 14.59,
-   "bil": 4,
+   "max": 14.99,
+   "bil": 5,
    "premis": 1,
-   "tarikh_terkini": "2026-11-12"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -8796,18 +8752,18 @@
    "max": 19.99,
    "bil": 43,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
    "daerah": "Hulu Perak",
    "bandar": "GERIK",
-   "median": 17.99,
+   "median": 18.0,
    "min": 15.99,
    "max": 23.0,
    "bil": 22,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -8818,18 +8774,18 @@
    "max": 20.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
    "daerah": "Hulu Perak",
    "bandar": "PENGKALAN HULU",
-   "median": 16.5,
+   "median": 16.0,
    "min": 16.0,
-   "max": 20.0,
+   "max": 18.0,
    "bil": 8,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -8840,7 +8796,7 @@
    "max": 16.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -8849,9 +8805,9 @@
    "median": 16.9,
    "min": 16.9,
    "max": 16.9,
-   "bil": 10,
+   "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -8860,9 +8816,9 @@
    "median": 15.0,
    "min": 14.0,
    "max": 18.0,
-   "bil": 10,
+   "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -8870,10 +8826,10 @@
    "bandar": "PARIT BUNTAR",
    "median": 14.99,
    "min": 11.99,
-   "max": 22.0,
+   "max": 18.0,
    "bil": 32,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -8884,7 +8840,7 @@
    "max": 24.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -8895,7 +8851,7 @@
    "max": 18.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -8904,9 +8860,9 @@
    "median": 18.0,
    "min": 12.99,
    "max": 29.9,
-   "bil": 71,
-   "premis": 7,
-   "tarikh_terkini": "2026-11-16"
+   "bil": 74,
+   "premis": 8,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -8917,7 +8873,7 @@
    "max": 16.99,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -8939,40 +8895,40 @@
    "max": 22.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
    "daerah": "Kuala Kangsar",
    "bandar": "KUALA KANGSAR",
-   "median": 18.0,
+   "median": 17.5,
    "min": 13.95,
    "max": 23.9,
    "bil": 22,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
    "daerah": "Kuala Kangsar",
    "bandar": "MANONG",
-   "median": 21.0,
+   "median": 20.0,
    "min": 20.0,
    "max": 22.0,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
    "daerah": "Kuala Kangsar",
    "bandar": "PADANG RENGAS",
-   "median": 17.0,
+   "median": 21.0,
    "min": 14.0,
    "max": 22.0,
    "bil": 6,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -8983,7 +8939,7 @@
    "max": 22.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -8994,7 +8950,7 @@
    "max": 19.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -9013,21 +8969,21 @@
    "bandar": "KAMUNTING",
    "median": 17.99,
    "min": 12.59,
-   "max": 24.0,
-   "bil": 27,
+   "max": 22.0,
+   "bil": 28,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
    "daerah": "Larut, Matang & Selama",
    "bandar": "MATANG",
    "median": 16.0,
-   "min": 16.0,
+   "min": 12.0,
    "max": 16.0,
-   "bil": 3,
+   "bil": 4,
    "premis": 1,
-   "tarikh_terkini": "2026-11-07"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -9038,7 +8994,7 @@
    "max": 18.0,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -9049,7 +9005,7 @@
    "max": 18.0,
    "bil": 32,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -9060,29 +9016,29 @@
    "max": 22.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
    "daerah": "Manjung",
    "bandar": "SERI MANJUNG",
-   "median": 20.0,
+   "median": 18.99,
    "min": 15.0,
    "max": 23.9,
    "bil": 31,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
    "daerah": "Manjung",
    "bandar": "SETIAWAN",
-   "median": 15.99,
+   "median": 16.99,
    "min": 9.99,
    "max": 20.99,
-   "bil": 5,
+   "bil": 6,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -9093,18 +9049,18 @@
    "max": 22.0,
    "bil": 20,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
    "daerah": "Muallim",
    "bandar": "SLIM RIVER",
-   "median": 18.8,
+   "median": 22.0,
    "min": 12.99,
    "max": 26.0,
-   "bil": 20,
+   "bil": 19,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
@@ -9115,7 +9071,7 @@
    "max": 20.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1545,
@@ -9506,12 +9462,12 @@
    "kod": 1555,
    "daerah": "Bagan Datuk",
    "bandar": "HUTAN MELINTANG",
-   "median": 31.49,
+   "median": 30.99,
    "min": 28.99,
    "max": 34.99,
-   "bil": 14,
+   "bil": 13,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9522,18 +9478,18 @@
    "max": 34.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
    "daerah": "Batang Padang",
    "bandar": "SUNGKAI",
    "median": 33.0,
-   "min": 28.0,
+   "min": 30.0,
    "max": 36.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9542,9 +9498,9 @@
    "median": 28.99,
    "min": 24.99,
    "max": 31.99,
-   "bil": 7,
+   "bil": 8,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9555,7 +9511,7 @@
    "max": 36.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9566,7 +9522,7 @@
    "max": 36.0,
    "bil": 50,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9577,7 +9533,7 @@
    "max": 34.99,
    "bil": 22,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9585,10 +9541,10 @@
    "bandar": "LENGGONG",
    "median": 30.0,
    "min": 24.0,
-   "max": 32.0,
+   "max": 33.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9599,18 +9555,18 @@
    "max": 30.0,
    "bil": 8,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
    "daerah": "Kerian",
    "bandar": "BAGAN SERAI",
-   "median": 36.99,
+   "median": 35.59,
    "min": 30.99,
    "max": 39.59,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9618,10 +9574,21 @@
    "bandar": "KERIAN SENTRAL MALL",
    "median": 27.99,
    "min": 27.49,
-   "max": 27.99,
+   "max": 31.9,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
+  },
+  {
+   "kod": 1555,
+   "daerah": "Kerian",
+   "bandar": "KUALA KURAU",
+   "median": 38.0,
+   "min": 38.0,
+   "max": 38.0,
+   "bil": 1,
+   "premis": 1,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9632,7 +9599,7 @@
    "max": 37.59,
    "bil": 22,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9643,18 +9610,18 @@
    "max": 32.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
    "daerah": "Kinta",
    "bandar": "GOPENG",
    "median": 30.0,
-   "min": 30.0,
+   "min": 28.0,
    "max": 32.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9663,9 +9630,9 @@
    "median": 31.9,
    "min": 26.99,
    "max": 49.9,
-   "bil": 80,
+   "bil": 81,
    "premis": 8,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9676,7 +9643,7 @@
    "max": 29.99,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9693,12 +9660,12 @@
    "kod": 1555,
    "daerah": "Kinta",
    "bandar": "TANJUNG RAMBUTAN",
-   "median": 30.0,
-   "min": 28.0,
+   "median": 28.0,
+   "min": 26.0,
    "max": 34.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9709,18 +9676,18 @@
    "max": 39.9,
    "bil": 21,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
    "daerah": "Kuala Kangsar",
    "bandar": "MANONG",
-   "median": 32.0,
-   "min": 30.0,
+   "median": 31.0,
+   "min": 28.0,
    "max": 33.0,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9731,29 +9698,29 @@
    "max": 28.0,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
    "daerah": "Kuala Kangsar",
    "bandar": "SUNGAI SIPUT",
-   "median": 29.0,
+   "median": 30.0,
    "min": 26.0,
    "max": 33.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
    "daerah": "Kuala Kangsar",
    "bandar": "SUNGAI SIPUT (U)",
-   "median": 29.99,
+   "median": 30.99,
    "min": 24.5,
    "max": 34.9,
    "bil": 8,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9772,10 +9739,10 @@
    "bandar": "KAMUNTING",
    "median": 30.0,
    "min": 24.0,
-   "max": 39.59,
+   "max": 37.59,
    "bil": 29,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9783,10 +9750,10 @@
    "bandar": "TAIPING",
    "median": 30.0,
    "min": 24.0,
-   "max": 49.9,
-   "bil": 28,
+   "max": 39.9,
+   "bil": 27,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9797,7 +9764,7 @@
    "max": 33.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9805,32 +9772,32 @@
    "bandar": "SERI MANJUNG",
    "median": 28.0,
    "min": 25.99,
-   "max": 35.0,
+   "max": 30.0,
    "bil": 21,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
    "daerah": "Manjung",
    "bandar": "SETIAWAN",
-   "median": 30.49,
-   "min": 28.99,
+   "median": 32.49,
+   "min": 29.99,
    "max": 35.99,
    "bil": 8,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
    "daerah": "Manjung",
    "bandar": "SITIAWAN",
    "median": 30.0,
-   "min": 26.0,
+   "min": 25.0,
    "max": 34.0,
-   "bil": 15,
+   "bil": 16,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9841,7 +9808,7 @@
    "max": 35.99,
    "bil": 20,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1555,
@@ -9852,7 +9819,7 @@
    "max": 36.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1562,
@@ -10652,10 +10619,10 @@
    "bandar": "TAPAH",
    "median": 32.99,
    "min": 32.99,
-   "max": 33.99,
+   "max": 32.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1916,
@@ -10664,7 +10631,7 @@
    "median": 28.0,
    "min": 25.0,
    "max": 28.0,
-   "bil": 9,
+   "bil": 8,
    "premis": 1,
    "tarikh_terkini": "2026-11-16"
   },
@@ -10688,7 +10655,7 @@
    "max": 37.9,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1916,
@@ -10699,7 +10666,7 @@
    "max": 32.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1916,
@@ -10710,7 +10677,7 @@
    "max": 30.99,
    "bil": 29,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1916,
@@ -10721,7 +10688,7 @@
    "max": 22.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1916,
@@ -10732,18 +10699,18 @@
    "max": 22.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1916,
    "daerah": "Kinta",
    "bandar": "IPOH",
    "median": 29.99,
-   "min": 15.0,
+   "min": 12.0,
    "max": 39.9,
-   "bil": 49,
+   "bil": 52,
    "premis": 6,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1916,
@@ -10752,7 +10719,7 @@
    "median": 30.99,
    "min": 30.99,
    "max": 30.99,
-   "bil": 5,
+   "bil": 4,
    "premis": 1,
    "tarikh_terkini": "2026-11-16"
   },
@@ -10776,7 +10743,7 @@
    "max": 18.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1916,
@@ -10785,7 +10752,7 @@
    "median": 34.0,
    "min": 34.0,
    "max": 34.0,
-   "bil": 8,
+   "bil": 7,
    "premis": 1,
    "tarikh_terkini": "2026-11-15"
   },
@@ -10796,9 +10763,9 @@
    "median": 26.0,
    "min": 26.0,
    "max": 28.0,
-   "bil": 6,
+   "bil": 7,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1916,
@@ -10815,12 +10782,12 @@
    "kod": 1916,
    "daerah": "Kuala Kangsar",
    "bandar": "SUNGAI SIPUT (U)",
-   "median": 34.99,
+   "median": 34.9,
    "min": 34.9,
    "max": 34.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1916,
@@ -10831,7 +10798,7 @@
    "max": 34.0,
    "bil": 15,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1916,
@@ -10842,7 +10809,7 @@
    "max": 26.0,
    "bil": 8,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1916,
@@ -10851,7 +10818,7 @@
    "median": 28.0,
    "min": 16.0,
    "max": 28.0,
-   "bil": 6,
+   "bil": 5,
    "premis": 1,
    "tarikh_terkini": "2026-11-16"
   },
@@ -10862,7 +10829,7 @@
    "median": 30.0,
    "min": 18.0,
    "max": 30.0,
-   "bil": 5,
+   "bil": 4,
    "premis": 1,
    "tarikh_terkini": "2026-11-14"
   },
@@ -10873,7 +10840,7 @@
    "median": 28.0,
    "min": 28.0,
    "max": 32.0,
-   "bil": 8,
+   "bil": 7,
    "premis": 1,
    "tarikh_terkini": "2026-11-15"
   },
@@ -10906,9 +10873,9 @@
    "median": 28.0,
    "min": 16.0,
    "max": 30.0,
-   "bil": 7,
+   "bil": 8,
    "premis": 2,
-   "tarikh_terkini": "2026-11-14"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1916,
@@ -10917,7 +10884,7 @@
    "median": 34.0,
    "min": 34.0,
    "max": 34.0,
-   "bil": 8,
+   "bil": 7,
    "premis": 1,
    "tarikh_terkini": "2026-11-16"
   },
@@ -10928,9 +10895,9 @@
    "median": 30.0,
    "min": 30.0,
    "max": 30.0,
-   "bil": 7,
+   "bil": 8,
    "premis": 1,
-   "tarikh_terkini": "2026-11-14"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1919,
@@ -10963,7 +10930,7 @@
    "max": 18.0,
    "bil": 8,
    "premis": 1,
-   "tarikh_terkini": "2026-11-14"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -10985,7 +10952,7 @@
    "max": 20.0,
    "bil": 17,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -10996,7 +10963,7 @@
    "max": 17.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -11007,7 +10974,7 @@
    "max": 18.0,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -11015,10 +10982,10 @@
    "bandar": "PENGKALAN HULU",
    "median": 16.0,
    "min": 15.0,
-   "max": 16.0,
+   "max": 18.0,
    "bil": 8,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -11029,7 +10996,7 @@
    "max": 15.9,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -11040,7 +11007,7 @@
    "max": 12.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -11057,12 +11024,12 @@
    "kod": 1921,
    "daerah": "Kinta",
    "bandar": "GOPENG",
-   "median": 16.0,
+   "median": 17.0,
    "min": 16.0,
    "max": 17.0,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -11071,9 +11038,9 @@
    "median": 16.0,
    "min": 9.99,
    "max": 20.0,
-   "bil": 42,
+   "bil": 41,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -11091,22 +11058,22 @@
    "daerah": "Kinta",
    "bandar": "TANJUNG RAMBUTAN",
    "median": 17.5,
-   "min": 14.0,
+   "min": 15.0,
    "max": 19.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
    "daerah": "Kuala Kangsar",
    "bandar": "KUALA KANGSAR",
-   "median": 15.5,
+   "median": 16.0,
    "min": 10.9,
    "max": 16.0,
    "bil": 12,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -11115,9 +11082,9 @@
    "median": 18.0,
    "min": 18.0,
    "max": 18.0,
-   "bil": 3,
+   "bil": 4,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -11126,7 +11093,7 @@
    "median": 15.0,
    "min": 14.0,
    "max": 15.0,
-   "bil": 4,
+   "bil": 3,
    "premis": 1,
    "tarikh_terkini": "2026-11-13"
   },
@@ -11137,7 +11104,7 @@
    "median": 16.0,
    "min": 16.0,
    "max": 17.0,
-   "bil": 10,
+   "bil": 9,
    "premis": 1,
    "tarikh_terkini": "2026-11-15"
   },
@@ -11150,18 +11117,18 @@
    "max": 20.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
    "daerah": "Larut, Matang & Selama",
    "bandar": "SIMPANG",
-   "median": 19.0,
-   "min": 19.0,
+   "median": 17.5,
+   "min": 16.0,
    "max": 19.0,
-   "bil": 1,
+   "bil": 2,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -11172,7 +11139,7 @@
    "max": 18.0,
    "bil": 20,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -11181,9 +11148,9 @@
    "median": 15.0,
    "min": 14.0,
    "max": 15.0,
-   "bil": 6,
+   "bil": 7,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -11194,7 +11161,7 @@
    "max": 21.0,
    "bil": 19,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -11203,9 +11170,9 @@
    "median": 14.0,
    "min": 14.0,
    "max": 18.0,
-   "bil": 18,
+   "bil": 19,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -11216,7 +11183,7 @@
    "max": 22.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1921,
@@ -11245,22 +11212,22 @@
    "daerah": "Batang Padang",
    "bandar": "BIDOR",
    "median": 15.0,
-   "min": 14.0,
+   "min": 12.0,
    "max": 16.0,
    "bil": 8,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
    "daerah": "Batang Padang",
    "bandar": "SUNGKAI",
-   "median": 13.5,
+   "median": 14.0,
    "min": 12.0,
    "max": 16.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11271,7 +11238,7 @@
    "max": 12.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11282,7 +11249,7 @@
    "max": 11.59,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11291,9 +11258,9 @@
    "median": 10.0,
    "min": 7.99,
    "max": 12.99,
-   "bil": 39,
+   "bil": 41,
    "premis": 5,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11304,7 +11271,7 @@
    "max": 15.0,
    "bil": 21,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11315,7 +11282,7 @@
    "max": 14.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11324,9 +11291,9 @@
    "median": 15.0,
    "min": 14.0,
    "max": 15.0,
-   "bil": 6,
+   "bil": 7,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11337,7 +11304,7 @@
    "max": 13.59,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11348,18 +11315,18 @@
    "max": 10.49,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
    "daerah": "Kerian",
    "bandar": "KUALA KURAU",
-   "median": 14.0,
+   "median": 13.0,
    "min": 12.0,
    "max": 14.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11370,7 +11337,7 @@
    "max": 13.0,
    "bil": 32,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11378,10 +11345,10 @@
    "bandar": "BATU GAJAH",
    "median": 15.0,
    "min": 12.0,
-   "max": 16.0,
+   "max": 15.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11392,7 +11359,7 @@
    "max": 15.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11403,7 +11370,7 @@
    "max": 15.0,
    "bil": 73,
    "premis": 7,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11414,7 +11381,7 @@
    "max": 9.99,
    "bil": 6,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11436,7 +11403,7 @@
    "max": 16.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11445,20 +11412,20 @@
    "median": 12.9,
    "min": 10.0,
    "max": 16.9,
-   "bil": 21,
+   "bil": 22,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
    "daerah": "Kuala Kangsar",
    "bandar": "MANONG",
    "median": 15.0,
-   "min": 14.0,
+   "min": 13.0,
    "max": 16.0,
    "bil": 8,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11469,7 +11436,7 @@
    "max": 14.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11480,18 +11447,18 @@
    "max": 13.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
    "daerah": "Kuala Kangsar",
    "bandar": "SUNGAI SIPUT (U)",
-   "median": 12.99,
+   "median": 12.9,
    "min": 9.99,
    "max": 12.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11513,7 +11480,7 @@
    "max": 14.0,
    "bil": 32,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11522,9 +11489,9 @@
    "median": 10.0,
    "min": 8.0,
    "max": 10.0,
-   "bil": 6,
+   "bil": 7,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11535,7 +11502,7 @@
    "max": 12.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11544,9 +11511,9 @@
    "median": 10.0,
    "min": 8.0,
    "max": 21.9,
-   "bil": 28,
+   "bil": 29,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11557,7 +11524,7 @@
    "max": 14.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11568,18 +11535,18 @@
    "max": 14.0,
    "bil": 33,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
    "daerah": "Manjung",
    "bandar": "SETIAWAN",
-   "median": 10.99,
+   "median": 10.49,
    "min": 6.99,
    "max": 11.99,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11590,18 +11557,18 @@
    "max": 15.0,
    "bil": 21,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
    "daerah": "Muallim",
    "bandar": "SLIM RIVER",
    "median": 12.59,
-   "min": 10.59,
+   "min": 9.99,
    "max": 16.0,
    "bil": 20,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
@@ -11612,7 +11579,7 @@
    "max": 14.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11623,7 +11590,7 @@
    "max": 16.0,
    "bil": 12,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11634,18 +11601,18 @@
    "max": 18.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
    "daerah": "Batang Padang",
    "bandar": "SUNGKAI",
-   "median": 16.0,
+   "median": 16.5,
    "min": 12.0,
    "max": 17.0,
-   "bil": 9,
+   "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11656,7 +11623,7 @@
    "max": 12.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11667,7 +11634,7 @@
    "max": 11.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11678,7 +11645,7 @@
    "max": 15.99,
    "bil": 44,
    "premis": 4,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11689,29 +11656,29 @@
    "max": 16.0,
    "bil": 21,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
    "daerah": "Hulu Perak",
    "bandar": "LENGGONG",
-   "median": 12.0,
+   "median": 12.5,
    "min": 12.0,
    "max": 15.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
    "daerah": "Hulu Perak",
    "bandar": "PENGKALAN HULU",
    "median": 14.0,
-   "min": 13.0,
+   "min": 14.0,
    "max": 16.0,
    "bil": 7,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11722,7 +11689,7 @@
    "max": 10.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11733,7 +11700,7 @@
    "max": 13.9,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11744,7 +11711,7 @@
    "max": 16.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11752,10 +11719,10 @@
    "bandar": "PARIT BUNTAR",
    "median": 10.99,
    "min": 7.8,
-   "max": 12.59,
-   "bil": 30,
+   "max": 14.0,
+   "bil": 29,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11766,7 +11733,7 @@
    "max": 17.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11777,7 +11744,7 @@
    "max": 16.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11788,7 +11755,7 @@
    "max": 22.9,
    "bil": 76,
    "premis": 8,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11799,7 +11766,7 @@
    "max": 10.79,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11821,18 +11788,18 @@
    "max": 18.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
    "daerah": "Kuala Kangsar",
    "bandar": "KUALA KANGSAR",
-   "median": 14.95,
+   "median": 15.0,
    "min": 12.0,
    "max": 16.0,
    "bil": 18,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11843,7 +11810,7 @@
    "max": 16.0,
    "bil": 8,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11854,7 +11821,7 @@
    "max": 15.0,
    "bil": 9,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11865,7 +11832,7 @@
    "max": 16.0,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11876,7 +11843,7 @@
    "max": 15.99,
    "bil": 11,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11898,7 +11865,7 @@
    "max": 16.0,
    "bil": 33,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11909,7 +11876,7 @@
    "max": 12.0,
    "bil": 5,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11920,18 +11887,18 @@
    "max": 14.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
    "daerah": "Larut, Matang & Selama",
    "bandar": "TAIPING",
-   "median": 12.0,
+   "median": 11.5,
    "min": 7.0,
    "max": 16.9,
-   "bil": 23,
+   "bil": 22,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11942,7 +11909,7 @@
    "max": 13.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11953,7 +11920,7 @@
    "max": 16.0,
    "bil": 30,
    "premis": 3,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11964,7 +11931,7 @@
    "max": 10.99,
    "bil": 8,
    "premis": 1,
-   "tarikh_terkini": "2026-11-15"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11975,7 +11942,7 @@
    "max": 15.0,
    "bil": 22,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11986,7 +11953,7 @@
    "max": 18.0,
    "bil": 22,
    "premis": 2,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
@@ -11997,7 +11964,7 @@
    "max": 16.0,
    "bil": 10,
    "premis": 1,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   }
  ],
  "negeri_median": [
@@ -12015,9 +11982,9 @@
    "median": 10.0,
    "min": 4.9,
    "max": 16.0,
-   "bil": 977,
-   "premis": 110,
-   "tarikh_terkini": "2026-11-16"
+   "bil": 975,
+   "premis": 109,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 52,
@@ -12030,12 +11997,12 @@
   },
   {
    "kod": 55,
-   "median": 12.0,
+   "median": 12.29,
    "min": 6.0,
    "max": 20.9,
    "bil": 344,
-   "premis": 61,
-   "tarikh_terkini": "2026-11-16"
+   "premis": 63,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 64,
@@ -12049,29 +12016,29 @@
   {
    "kod": 69,
    "median": 10.9,
-   "min": 2.99,
+   "min": 3.59,
    "max": 18.0,
-   "bil": 204,
-   "premis": 48,
-   "tarikh_terkini": "2026-11-16"
+   "bil": 208,
+   "premis": 46,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 70,
    "median": 16.0,
    "min": 7.99,
    "max": 29.9,
-   "bil": 834,
+   "bil": 845,
    "premis": 101,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 88,
-   "median": 9.9,
+   "median": 9.99,
    "min": 7.0,
    "max": 13.0,
-   "bil": 936,
+   "bil": 931,
    "premis": 100,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 350,
@@ -12087,18 +12054,18 @@
    "median": 34.0,
    "min": 16.9,
    "max": 49.99,
-   "bil": 765,
-   "premis": 104,
-   "tarikh_terkini": "2026-11-16"
+   "bil": 771,
+   "premis": 105,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 847,
    "median": 34.99,
    "min": 23.0,
    "max": 59.9,
-   "bil": 533,
-   "premis": 85,
-   "tarikh_terkini": "2026-11-16"
+   "bil": 532,
+   "premis": 83,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 849,
@@ -12140,10 +12107,10 @@
    "kod": 1436,
    "median": 14.99,
    "min": 6.99,
-   "max": 27.0,
-   "bil": 838,
+   "max": 25.0,
+   "bil": 851,
    "premis": 100,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1437,
@@ -12168,27 +12135,27 @@
    "median": 44.0,
    "min": 32.0,
    "max": 69.9,
-   "bil": 55,
-   "premis": 15,
-   "tarikh_terkini": "2026-11-16"
+   "bil": 53,
+   "premis": 14,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1476,
    "median": 14.99,
    "min": 7.9,
-   "max": 22.9,
-   "bil": 468,
-   "premis": 75,
-   "tarikh_terkini": "2026-11-16"
+   "max": 21.9,
+   "bil": 466,
+   "premis": 73,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1477,
    "median": 17.9,
    "min": 8.99,
    "max": 29.9,
-   "bil": 888,
-   "premis": 108,
-   "tarikh_terkini": "2026-11-16"
+   "bil": 907,
+   "premis": 109,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1545,
@@ -12213,9 +12180,9 @@
    "median": 30.0,
    "min": 23.1,
    "max": 49.9,
-   "bil": 872,
-   "premis": 103,
-   "tarikh_terkini": "2026-11-16"
+   "bil": 881,
+   "premis": 104,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1562,
@@ -12256,11 +12223,11 @@
   {
    "kod": 1916,
    "median": 30.9,
-   "min": 15.0,
+   "min": 12.0,
    "max": 41.59,
    "bil": 445,
-   "premis": 64,
-   "tarikh_terkini": "2026-11-16"
+   "premis": 63,
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 1919,
@@ -12276,27 +12243,27 @@
    "median": 16.0,
    "min": 9.99,
    "max": 22.0,
-   "bil": 418,
+   "bil": 420,
    "premis": 56,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2045,
-   "median": 11.59,
+   "median": 11.9,
    "min": 5.6,
    "max": 21.9,
-   "bil": 938,
+   "bil": 943,
    "premis": 107,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   },
   {
    "kod": 2047,
    "median": 12.99,
-   "min": 7.0,
+   "min": 6.99,
    "max": 22.9,
-   "bil": 958,
+   "bil": 952,
    "premis": 109,
-   "tarikh_terkini": "2026-11-16"
+   "tarikh_terkini": "2026-11-17"
   }
  ]
 }
